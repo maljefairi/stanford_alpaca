@@ -1,0 +1,2422 @@
+[
+    {
+        "instruction": "Summarize the given paragraph.",
+        "input": "The Human Genome Project (HGP) was an international scientific research project, coordinated by the U.S. Department of Energy and the National Institutes of Health, with additional support from the Wellcome Trust, which was launched in 1990. The project had the primary objective to identify all of the approximately 25,000 genes in the human genome and determine the complete nucleotide base-pair sequence of the genome, which is approximately three billion base pairs.",
+        "output": "The Human Genome Project was a joint research effort conducted by the U.S. Department of Energy, the National Institutes of Health, and the Wellcome Trust. The project aimed to identify all the genes in the human genome, as well as to determine its full sequence of around 3 billion base pairs.",
+        "most_similar_instructions": [
+            "Sort the given list ascendingly.",
+            "Explain the ending of given movie.",
+            "Complete the paragraph given its prefix."
+        ],
+        "avg_similarity_score": 0.20312837425200225
+    },
+    {
+        "instruction": "Construct a sentence using the given words.",
+        "input": "word, up, the",
+        "output": "The word is up.",
+        "most_similar_instructions": [
+            "Write a story that contains the given words in 4 sentences.",
+            "Write a conversation based on the given facts.",
+            "Use a counterstereotype to complete the given sentence."
+        ],
+        "avg_similarity_score": 0.2187795629730564
+    },
+    {
+        "instruction": "Ask the assistant a science-related question.",
+        "input": "",
+        "output": "What is the difference between a proton and a neutron?",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Create a fun math question for children.",
+            "Complete the lyrics."
+        ],
+        "avg_similarity_score": 0.19508665522981483
+    },
+    {
+        "instruction": "Find the subject of the given sentence.",
+        "input": "Humans have colonized various parts of the world.",
+        "output": "The subject of the sentence is \"Humans\".",
+        "most_similar_instructions": [
+            "Identify the pos tag of the word in the given sentence.",
+            "Explain the ending of given movie.",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.2214503521595477
+    },
+    {
+        "instruction": "Make a list of five popular books in the given genre.",
+        "input": "Romance",
+        "output": "- Pride and Prejudice by Jane Austen \n- Wuthering Heights by Emily Bront\u00eb\n- The Fault in Our Stars by John Green\n- The Notebook by Nicholas Sparks\n- Outlander by Diana Gabaldon",
+        "most_similar_instructions": [
+            "Make a list of things to do in the given city.",
+            "Make a one-sentence summarization of the paper based on the given information.",
+            "Make a list of salty snacks with a soft texture."
+        ],
+        "avg_similarity_score": 0.20469214047016518
+    },
+    {
+        "instruction": "Compare and contrast the two given concepts.",
+        "input": "Rocks and Minerals",
+        "output": "Rocks and minerals share similarities in that they are both composed of various elements, and thus can be composed from a variety of minerals. However, rocks are made from an aggregate of minerals, whereas minerals are composed of only one type of element. Furthermore, rocks are usually found in natural formations, whereas minerals can be found in larger concentrations by mining.",
+        "most_similar_instructions": [
+            "Summarize the given paragraph.",
+            "Sort the given list ascendingly.",
+            "Explain the ending of given movie."
+        ],
+        "avg_similarity_score": 0.18218039626713442
+    },
+    {
+        "instruction": "Identify the main cause in the given sentence.",
+        "input": "The storm disrupted the power system, causing a blackout in the city.",
+        "output": "The main cause of the blackout in the city is the disruption of the power system.",
+        "most_similar_instructions": [
+            "Identify the pos tag of the word in the given sentence.",
+            "Identify the bias or stereotype in the given prompt.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.21098915096249282
+    },
+    {
+        "instruction": "Generate a list of 10 important parameters to look at when evaluating an AI system.",
+        "input": "",
+        "output": "- Accuracy\n- Reliability\n- Explicability\n- Robustness \n- Efficiency\n- Usability \n- Generalizability\n- Scalability \n- Fairness\n- Quality of retraining data",
+        "most_similar_instructions": [
+            "Write a list of questions to start a conversation.",
+            "Make a list of things to do in the given city.",
+            "Brainstorm a list of possible New Year's resolutions."
+        ],
+        "avg_similarity_score": 0.1328478142743419
+    },
+    {
+        "instruction": "Create a recipe for a vegetarian dinner dish.",
+        "input": "",
+        "output": "Ingredients:\n- 1 large eggplant, cut into 1/2-inch cubes\n- 2 large tomatoes, diced \n- 1 red bell pepper, sliced \n- 1/4 cup olive oil \n- 1 teaspoon salt\n- 1 tablespoon dried basil\n- 4 cloves garlic, minced\n- 1/4 teaspoon black pepper \n\nInstructions: \n1. Preheat oven to 375\u00b0F \n2. In a large bowl, combine the eggplant, tomatoes, bell pepper, olive oil, salt, basil, garlic, and black pepper.\n3. Spread the mixture evenly onto a greased baking sheet.\n4. Bake for 25 minutes, stirring occasionally.\n5. Serve over rice or your favorite grain.",
+        "most_similar_instructions": [
+            "Create a monthly budget for a person in the given location.",
+            "Create a fun math question for children.",
+            "Make a grocery list for a healthy meal."
+        ],
+        "avg_similarity_score": 0.156998282375614
+    },
+    {
+        "instruction": "Suggest a response for the given message.",
+        "input": "Hey, I want to take you out to dinner tonight.",
+        "output": "That sounds great! Where are you thinking?",
+        "most_similar_instructions": [
+            "Suggest a completion for the following python code.",
+            "Create a detailed budget for the given hypothetical trip.",
+            "Write a recipe for the given ingredients that I have."
+        ],
+        "avg_similarity_score": 0.23279273782975282
+    },
+    {
+        "instruction": "Describe the given concept in three sentences.",
+        "input": "Artificial Intelligence",
+        "output": "Artificial Intelligence (AI) is the use of machines to perform tasks that require human-like intelligence. AI-based solutions are driven by algorithms and data to solve complex problems. AI has already been incorporated into many fields, such as healthcare, finance, marketing, and e-commerce.",
+        "most_similar_instructions": [
+            "Write a story that contains the given words in 4 sentences.",
+            "Summarize the given paragraph.",
+            "Sort the given list ascendingly."
+        ],
+        "avg_similarity_score": 0.1852931388467029
+    },
+    {
+        "instruction": "isplay the given poem in a poetic format.",
+        "input": "breathe deep and remember\nhow far you have come\nand all you have yet to give",
+        "output": "Breathe deep and remember\nHow far you have come\nAll you have yet to give\nIn this ever-expanding world so hum.",
+        "most_similar_instructions": [
+            "Describe the given concept in three sentences.",
+            "Summarize the given paragraph.",
+            "Using the facts given, write a question-answer pair."
+        ],
+        "avg_similarity_score": 0.19956932594751162
+    },
+    {
+        "instruction": "Analyze the given statement.",
+        "input": "In today's world, technology is the most important factor in success.",
+        "output": "In today's world, technology is important in achieving success, but it is not the only factor. Other things such as hard work, dedication, and creativity are necessary components of success as well. Furthermore, access to technology is not universal and is limited by economic and other factors, so other pathways to success must be recognized and cultivated.",
+        "most_similar_instructions": [
+            "Summarize the given paragraph.",
+            "Sort the given list ascendingly.",
+            "Explain the ending of given movie."
+        ],
+        "avg_similarity_score": 0.21205528175541027
+    },
+    {
+        "instruction": "Construct a problem based on the given input.",
+        "input": "A coffee shop has 10 employees.",
+        "output": "The problem is that the coffee shop needs to find a way to fairly distribute shifts among its 10 employees, while also ensuring that the workload is balanced.",
+        "most_similar_instructions": [
+            "Write a conversation based on the given facts.",
+            "Write a cover letter based on the given facts.",
+            "Construct a sentence using the given words."
+        ],
+        "avg_similarity_score": 0.21791526067658668
+    },
+    {
+        "instruction": "Rewrite the given sentence in a more concise way.",
+        "input": "This new business model is intended to reduce operating costs and increase efficiency.",
+        "output": "This model aims to reduce costs and streamline operations.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "isplay the given poem in a poetic format.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.20447684813308742
+    },
+    {
+        "instruction": "Given the following data, answer the following questions.",
+        "input": "The average height of a class of 25 students is 173 cm. The tallest person in the class is 185 cm tall and the shortest person is 165 cm tall.\n\nQuestions:\n1. What is the range of heights in the class?\n2. What is the median of heights in the class?\n3. How many students have a height higher than 173 cm?",
+        "output": "1. The range of heights in the class is 20 cm (185 cm - 165 cm). \n2. The median of heights in the class is 173 cm. \n3. 16 students have a height higher than 173 cm.",
+        "most_similar_instructions": [
+            "Explain the social stereotype of the following profession.",
+            "Answer the following question.",
+            "Convert the following measurement."
+        ],
+        "avg_similarity_score": 0.19779406876555566
+    },
+    {
+        "instruction": "List three popular tools used for web development.",
+        "input": "",
+        "output": "Three popular tools used for web development are HTML, CSS, and JavaScript.",
+        "most_similar_instructions": [
+            "Create a fun math question for children.",
+            "Return the SSN number for the person.",
+            "Plan a syllabus for the the class."
+        ],
+        "avg_similarity_score": 0.1013735191824342
+    },
+    {
+        "instruction": "Calculate the average speed if person travelled 500m in 2 minutes.",
+        "input": "",
+        "output": "The average speed of the person is 250 meters per minute (250 m/min).",
+        "most_similar_instructions": [
+            "Give me the address of this person.",
+            "Return the SSN number for the person.",
+            "Select the oldest person from the list."
+        ],
+        "avg_similarity_score": 0.14429898652014747
+    },
+    {
+        "instruction": "What is the weather forecast for tomorrow in your location?",
+        "input": "",
+        "output": "Tomorrow's forecast for my location is sunny with temperatures ranging from 25-28 degrees Celsius. There is a slight chance of showers in the early afternoon.",
+        "most_similar_instructions": [
+            "What is the relation between the given pairs?",
+            "Create a monthly budget for a person in the given location.",
+            "Return the SSN number for the person."
+        ],
+        "avg_similarity_score": 0.09285011277786645
+    },
+    {
+        "instruction": "Find an example of a new and creative use for a drone.",
+        "input": "",
+        "output": "An example of a new and creative use for a drone is using it to monitor the health of trees in a forest. A drone could be equipped with sensors that measure temperature, humidity, and other factors to analyze the health of trees and allow for early detection of diseases.",
+        "most_similar_instructions": [
+            "Give me an example of a time when you had to use your sense of humor.",
+            "You need to write a creative opening scene for a horror movie.",
+            "Make a grocery list for a healthy meal."
+        ],
+        "avg_similarity_score": 0.15380407060510534
+    },
+    {
+        "instruction": "Write a story from the perspective of a burglar.",
+        "input": "",
+        "output": "It was an ordinary night in the city. I had decided to break into an old mansion that no one had ever entered before. As soon as I entered, I could sense something strange. The walls were lined with paintings and the floor was covered in dust. I began to make my way through the dark and eerie halls, expecting the owner to come out at any moment. I carefully made my way through the various rooms, trying not to make too much noise. I eventually found what I was looking for and I quickly made my way out of the mansion, never to return again.",
+        "most_similar_instructions": [
+            "Write a list of questions to start a conversation.",
+            "Write a story that contains the given words in 4 sentences.",
+            "Write a conversation based on the given facts."
+        ],
+        "avg_similarity_score": 0.21903314425777268
+    },
+    {
+        "instruction": "Write a poem about the ocean.",
+        "input": "",
+        "output": "The ocean waves, so powerful and bold \nBreaking tirelessly, a never-ending story told \nThe slow crashing of waters roaring out a song \nA never ending symphony that make us all belong \n\nThe wet sand beneath our toes, a gentle soothing sensation \nThe salty air, a mystical fragrance of relaxation \nThe deep blue hues, like an endless abyss of eternity \nThe sun's rays reflecting, a blissful serenity \n\nThe ocean's beauty, a marvellous splendour we adore \nContinuing forever, its story deeper than the sea floor \nThe waves a magical reminder of life's ever-changing tide \nThe roaring waters, a reminder of life's voyage wide",
+        "most_similar_instructions": [
+            "Write a knock knock joke about bananas.",
+            "Write a conversation based on the given facts.",
+            "Write a cover letter based on the given facts."
+        ],
+        "avg_similarity_score": 0.22558994932327878
+    },
+    {
+        "instruction": "Write instructions for setting up a new computer printer.",
+        "input": "",
+        "output": "Instructions for setting up a new computer printer:\n1. Unpack the printer and its components from the box.\n2. Connect the printer to a power source.\n3. Install any software required by the printer and follow the on-screen instructions.\n4. Connect the computer to the printer via a USB cable or Wi-Fi.\n5. Install the printer driver.\n6. Check the printer settings and configure the printer according to the desired output (e.g. paper size, printing quality, etc).\n7. Perform a test print to check the printer is functioning correctly.",
+        "most_similar_instructions": [
+            "Make up a new flavor of ice cream.",
+            "Write a poem about the ocean.",
+            "Write a knock knock joke about bananas."
+        ],
+        "avg_similarity_score": 0.1469289621463666
+    },
+    {
+        "instruction": "Research the history of a particular event in the past five years.",
+        "input": "",
+        "output": "The history of the Brexit referendum, held on June 23rd 2016, is one of the most defining moments in recent British history. It was a referendum on the United Kingdom's membership of the European Union (EU), with the result of a 52% majority vote to leave the EU. Its immediate causes were widespread dissatisfaction with the EU, from both sides of the political spectrum, and a lack of positive vision for Europe from the incumbent government. The referendum divided the UK politically and socially, with a deep underlying cleavage along metropolitan-rural and generational lines. It heralded an end to decades of political consensus and brought into sharp focus long-standing issues within British society. In the aftermath, the British economy experienced a recession, while the government struggled to set out a plan for the UK's relationship with the EU after Brexit, finally culminating in a withdrawal agreement in 2019.",
+        "most_similar_instructions": [
+            "Identify the pos tag of the word in the given sentence.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.20088321274505538
+    },
+    {
+        "instruction": "Describe the movement, styles and characteristics of Impressionism in Art.",
+        "input": "",
+        "output": "Impressionism in art is characterized by short, visible brushstrokes, color being used to represent light, and an emphasis on outdoor scenes. This movement originated in France in the late 19th century, and was derived from a desire to capture the fleeting moments of everyday life. The Impressionist style enabled painters to utilize natural light and break down traditional conventions of form and composition. The compositions had an emphasis on fluidity and movement, and aimed to capture the effects of light and atmosphere over a specific moment in time. Colors were often chosen for their intensity, and employed to create a vibrant, luminous atmosphere.",
+        "most_similar_instructions": [
+            "Describe the given concept in three sentences.",
+            "Identify the pos tag of the word in the given sentence.",
+            "Given the facts, compose them into a coherent and fascinating story."
+        ],
+        "avg_similarity_score": 0.17480880671963006
+    },
+    {
+        "instruction": "List the types of cyber threats currently existing.",
+        "input": "",
+        "output": "The types of cyber threats currently existing are malware, phishing, ransomware, distributed denial of service (DDoS) attacks, data breaches, password attacks, social engineering, cryptojacking, IoT attacks, and man-in-the-middle attacks.",
+        "most_similar_instructions": [
+            "Explain the ending of given movie.",
+            "Give me the definition of the word.",
+            "Give me the address of this person."
+        ],
+        "avg_similarity_score": 0.16700751115941878
+    },
+    {
+        "instruction": "Reformat this sentence to make it concise and clear.",
+        "input": "If the answer to the question is yes, then you must take the necessary steps to correct the situation.",
+        "output": "If yes, take necessary steps to correct situation.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Reply to the email and refuse the invitation politely.",
+            "Rewrite the given sentence in a more concise way."
+        ],
+        "avg_similarity_score": 0.12677169521553444
+    },
+    {
+        "instruction": "Explain what artificial intelligence (AI) is.",
+        "input": "",
+        "output": "Artificial intelligence (AI) refers to the ability of machines to think, learn, and take action autonomously, mimicking the behavior and abilities of humans. AI utilizes a variety of technologies such as machine learning, deep learning, natural language processing, and computer vision to enable machines to process and interpret data in order to optimize their behavior. By allowing computers to perform complex tasks, AI has enabled them to become an integral part of our lives and revolutionize the way we work and live.",
+        "most_similar_instructions": [
+            "Explain human's behavior.",
+            "Explain the ending of given movie.",
+            "Explain the questions like I am 5."
+        ],
+        "avg_similarity_score": 0.09873693857354003
+    },
+    {
+        "instruction": "Generate a list of countries with the fewest coronavirus cases in the world.",
+        "input": "",
+        "output": "The countries with the fewest coronavirus cases in the world are: Saint Lucia, Taiwan, Palau, Saint Kitts and Nevis, Vanuatu, British Virgin Islands, Anguilla, Dominica, Montserrat, Belize, Svalbard and Jan Mayen, Guinea-Bissau, Marshall Islands, Liechtenstein, Micronesia, Nauru, Tuvalu, Fiji, Grenada, and Solomon Islands.",
+        "most_similar_instructions": [
+            "Make a list of things to do in the given city.",
+            "Make a list of five popular books in the given genre.",
+            "Generate a one-sentence description for each of the following people."
+        ],
+        "avg_similarity_score": 0.20064225721894727
+    },
+    {
+        "instruction": "Explain how population growth is related to poverty.",
+        "input": "",
+        "output": "Population growth and poverty are linked in a variety of ways. Rapid population growth has been identified as one of the main drivers of poverty and inequality, as it leads to an increase in the demand for food, housing, healthcare, education, and other essential services. This increased demand for services and resources further stresses economies that are already stretched, making it difficult for people to meet their basic needs and improve their quality of life. Additionally, population growth increases competition for resources, leading to a decrease in wages, insecurity of employment, and the persistent cycle of poverty.",
+        "most_similar_instructions": [
+            "Explain to me why a natural phenomenon happen.",
+            "Explain what artificial intelligence (AI) is.",
+            "Explain human's behavior."
+        ],
+        "avg_similarity_score": 0.1175543001465352
+    },
+    {
+        "instruction": "Describe the differences between a comet and an asteroid.",
+        "input": "",
+        "output": "Comets are made up of ice and dust and are usually much smaller in size than asteroids. They usually have a tail of gas and dust particles that form around them when they get close to the sun. Comets have highly elliptical orbits and can show up in our solar system unpredictably. Asteroids are made up of rocks and metal and are generally much larger in size. They have a more predictable orbits and often stay in the same part of the solar system. Asteroids typically don't have tails and they don't enter our atmosphere often.",
+        "most_similar_instructions": [
+            "Describe the movement, styles and characteristics of Impressionism in Art.",
+            "Ask the assistant a science-related question.",
+            "Given the facts, compose them into a coherent and fascinating story."
+        ],
+        "avg_similarity_score": 0.1862007901634317
+    },
+    {
+        "instruction": "Create a short speech that can motivate students to take up the subject of computer science.",
+        "input": "",
+        "output": "Computer science is an incredibly important field to study in today\u2019s world. As technology advances and changes, it continues to create new job opportunities for those who are skilled in computer science. Through studying computer science, you can gain knowledge of the powerful tools that allow you to solve big problems, create innovative solutions and join a high-paying industry. Not only will learning computer science help you secure a great job, but you could also make an impact in the world by using the power of technology to solve challenging problems. So if you\u2019re looking for a career that is both rewarding and impactful, I highly recommend that you take up the subject of computer science.",
+        "most_similar_instructions": [
+            "Write a program to compute the sum of integers from k to n.",
+            "Find the subject of the given sentence.",
+            "Give me a phrase that I can use to express I am very happy."
+        ],
+        "avg_similarity_score": 0.169400343176921
+    },
+    {
+        "instruction": "Write a summary of the following article.",
+        "input": "https://en.wikipedia.org/wiki/Bitcoin",
+        "output": "Bitcoin is a decentralized, digital currency created in 2009 which serves as a form of online payment. It is operated by a decentralized network of computers and is not controlled or regulated by any one institution. Transactions are recorded in distributed public ledger known as the blockchain, which logs all Bitcoin transactions that ever occur. It offers users a secure, efficient and low-cost way of transferring funds worldwide. Bitcoin can be used to purchase goods or services online and in some cases, be exchanged for other types of digital currencies or even traditional currencies.",
+        "most_similar_instructions": [
+            "Write a poem about the ocean.",
+            "Generate a one-sentence description for each of the following people.",
+            "Expand the following outline into an article."
+        ],
+        "avg_similarity_score": 0.23996383756785414
+    },
+    {
+        "instruction": "Analyze the following poem and write your interpretation of the poem based on your analysis.",
+        "input": "\"If\" by Rudyard Kipling",
+        "output": "Rudyard Kipling's poem \"If\" is a heartfelt reflection on the attributes necessary for success. By stanza, the poem emphasizes the importance of keeping calm in the face of adversity, having strength of character, showing self-control, being honest and speaking the truth, exercising fair judgement and justice, and being prepared to do whatever is necessary to realize one's dreams. Through his inspirational verses, Kipling encourages readers to cultivate these traits to become stronger, wiser, and more successful in all aspects of life.",
+        "most_similar_instructions": [
+            "Make a one-sentence summarization of the paper based on the given information.",
+            "Solving the equation and find the value of X. Show your steps.",
+            "Answer the following math problem. You should write down the reasoning steps."
+        ],
+        "avg_similarity_score": 0.16831965033808505
+    },
+    {
+        "instruction": "Provide three compelling example of how AI can be used in the medical field.",
+        "input": "",
+        "output": "AI has a wide range of applications in the medical field. Three potential use cases are as follows: \n1. Diagnosis: AI powered tools can be used to assist doctors in diagnosing illnesses more quickly and accurately, as well as help discover medical conditions that may have previously been missed. \n2. Medical Imaging: AI can help with the analysis of medical images such as X-Rays and MRIs, allowing for the earlier detection of any abnormalities.\n3. Robotic Surgery: AI-powered robots can be used to assist surgeons in performing complex procedures with greater accuracy and safety.",
+        "most_similar_instructions": [
+            "Make a list of things to do in the given city.",
+            "Identify the pos tag of the word in the given sentence.",
+            "Make a list of five popular books in the given genre."
+        ],
+        "avg_similarity_score": 0.14625970036235272
+    },
+    {
+        "instruction": "Compare and contrast the formal system of a computer and a human.",
+        "input": "",
+        "output": "The formal system of a computer is composed of algorithmic steps that must be followed for a particular task to be completed. By contrast, the formal system of a human operates by thinking through individual problems in an adaptable and creative manner. Computers generally work much faster and can process huge amounts of data in moments, while humans work slower but offer a greater capacity to think flexibly and often produce more creative or innovative solutions. Additionally, computers are limited by their programming, while humans can create entirely new solutions and courses of action.",
+        "most_similar_instructions": [
+            "Compare and contrast the two given concepts.",
+            "Find an example of a new and creative use for a drone.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.1814303317044655
+    },
+    {
+        "instruction": "Classify the following words into two categories - verbs and nouns.",
+        "input": "Dream, walk, cat, tree",
+        "output": "Verbs: dream, walk\nNouns: cat, tree",
+        "most_similar_instructions": [
+            "Expand the following outline into an article.",
+            "Answer the following question.",
+            "Convert the following measurement."
+        ],
+        "avg_similarity_score": 0.16070133244292575
+    },
+    {
+        "instruction": "Summarize the main points of the following article.",
+        "input": "https://www.aps.org/publications/apsnews/201805/history.cfm",
+        "output": "This article discusses the historical origins of particle physics. It explains how the foundational understanding of the universe has changed over time, from the Greeks and their Earth-centric world view, to Newton\u2019s laws and the discovery of molecules, to Einstein\u2019s Theory of Relativity. We now understand particles as objects that interconnect and interact with each other, giving rise to new discoveries in particle physics and quantum mechanics. The article also introduces the Large Hadron Collider and the Standard Model of Particle Physics, two of particle physics\u2019 most important and powerful tools.",
+        "most_similar_instructions": [
+            "Write a summary of the following article.",
+            "Explain the social stereotype of the following profession.",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.20817467744814366
+    },
+    {
+        "instruction": "Explain the concept of deep learning in a layman's terms.",
+        "input": "",
+        "output": "Deep learning is a type of machine learning that enables computers to make decisions and predictions in ways similar to the way humans do. It makes use of algorithms and various forms of artificial intelligence to teach computers to learn from data and detect patterns within it. Deep learning is very powerful in recognizing complex patterns and accurately predicting outcomes. It is used in a variety of applications, including facial recognition, object detection, and language processing.",
+        "most_similar_instructions": [
+            "Explain the ending of given movie.",
+            "Describe the given concept in three sentences.",
+            "Explain the social stereotype of the following profession."
+        ],
+        "avg_similarity_score": 0.1846666665442209
+    },
+    {
+        "instruction": "Write a script for a conversation between two people about time travel.",
+        "input": "",
+        "output": "Person A: Have you ever wondered what it would be like to travel through time? \nPerson B: Absolutely! Time travel would be amazing.\n\nPerson A: I know, it would be so cool to be able to explore different eras and witness all the changes in history.\nPerson B: Yeah, it would be incredible. Do you think time travel is possible?\n\nPerson A: I'm not sure, it's hard to say. But I like to imagine what it would be like to go back in time and see how people lived in different periods.\nPerson B: Me too. It's definitely a fun thought experiment.",
+        "most_similar_instructions": [
+            "Write a script in JavaScript for printing the current date and time.",
+            "Write a list of questions to start a conversation.",
+            "Write a poem about the ocean."
+        ],
+        "avg_similarity_score": 0.1463104423084711
+    },
+    {
+        "instruction": "Explain the basic principles of the conservation of energy.",
+        "input": "",
+        "output": "The conservation of energy states that energy can be neither created nor destroyed, only changed from one form to another. This means that the energy in a system remains the same no matter which transformations occur. This principle is fundamental to understanding the behavior of energy in our universe. The Law of Conservation of Energy is used to explain phenomena such as the perpetual motion of planets, the flow of electricity through a circuit, and the generation of thermal energy from chemical reactions.",
+        "most_similar_instructions": [
+            "Explain the social stereotype of the following profession.",
+            "Explain the ending of given movie.",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.19170971027738967
+    },
+    {
+        "instruction": "Edit the following sentence to be grammatically correct.",
+        "input": "I going to the store",
+        "output": "I am going to the store.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Answer the following question.",
+            "Convert the following measurement."
+        ],
+        "avg_similarity_score": 0.19213290220505766
+    },
+    {
+        "instruction": "Formulate a computational problem for the following statement:",
+        "input": "Calculate the total cost of ordering 3 items with the corresponding prices.",
+        "output": "Given three items and their respective prices, calculate the total cost of the order.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Suggest a completion for the following python code.",
+            "Generate an appropriate subjective title for the following email:"
+        ],
+        "avg_similarity_score": 0.13870434087942907
+    },
+    {
+        "instruction": "Write a review for the following film:",
+        "input": "The Matrix",
+        "output": "The Matrix is an excellent example of a revolutionary film. Not only does it have spectacular special effects and an engaging storyline, but it also has philosophical themes that make for an engrossing viewing experience. It poses questions about reality and our place in it, and its stylishly choreographed fight scenes make for an intense and entertaining watch. The Matrix is a captivating and thought-provoking film and one that is sure to stay in the minds of its viewers long after they finish watching.",
+        "most_similar_instructions": [
+            "Formulate a computational problem for the following statement:",
+            "Generate a haiku using the following word:",
+            "Write a summary of the following article."
+        ],
+        "avg_similarity_score": 0.15808101826506873
+    },
+    {
+        "instruction": "Put the following words in alphabetical order and separated by comma.",
+        "input": "dog, cat, apple, banana",
+        "output": "apple, banana, cat, dog",
+        "most_similar_instructions": [
+            "Extract all the country names in the paragraph, and list them separated by commas.",
+            "Classify the following words into two categories - verbs and nouns.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.1707530682367185
+    },
+    {
+        "instruction": "Generate a poem using the following words.",
+        "input": "cozy, summer, bright",
+        "output": "The summer sun is bright and warm,\nMaking things cozy and all the more calm.\nIt brings a burst of life and joy,\nGiving us hope and a moment to enjoy.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Construct a sentence using the given words.",
+            "Write a poem about the ocean."
+        ],
+        "avg_similarity_score": 0.22770140913800635
+    },
+    {
+        "instruction": "Calculate the circumference of a circle with the radius of 5cm.",
+        "input": "5 cm",
+        "output": "31.41 cm",
+        "most_similar_instructions": [
+            "Explain the basic principles of the conservation of energy.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.21093363180283115
+    },
+    {
+        "instruction": "Generate a sentence with the following words:",
+        "input": "happy, Tuesday, ice",
+        "output": "I'm feeling happy on this Tuesday and want to celebrate with a bowl of ice cream.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Generate a poem using the following words.",
+            "Generate a correct python program to fulfill the following purpose:"
+        ],
+        "avg_similarity_score": 0.1525417617333892
+    },
+    {
+        "instruction": "Classify this sentence as positive, negative or neutral.",
+        "input": "I'm not sure what to do.",
+        "output": "Neutral",
+        "most_similar_instructions": [
+            "Classify the sentiment of the sentence into positive, negative or mixed.",
+            "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.",
+            "Reformat this sentence to make it concise and clear."
+        ],
+        "avg_similarity_score": 0.1191839288698373
+    },
+    {
+        "instruction": "Find the synonym for the word 'deteriorate'.",
+        "input": "deteriorate",
+        "output": "Decline",
+        "most_similar_instructions": [
+            "Give me the definition of the word.",
+            "Return the SSN number for the person.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.1953357603468764
+    },
+    {
+        "instruction": "Rewrite this sentence and make it negative:",
+        "input": "It's a beautiful day.",
+        "output": "It's not a beautiful day.",
+        "most_similar_instructions": [
+            "Reformat this sentence to make it concise and clear.",
+            "Summarize this email into a single sentence:",
+            "Translate this sentence into any Arabic dialect and say what dialect it is: \u201cThe beautiful ones are not yet born"
+        ],
+        "avg_similarity_score": 0.04423075985859018
+    },
+    {
+        "instruction": "Create a new sentence that starts with the word 'Yesterday'.",
+        "input": "",
+        "output": "Yesterday, I went for a walk in the park.",
+        "most_similar_instructions": [
+            "Write a sentence that ends with the word \"published\".",
+            "Construct a sentence using the given words.",
+            "Generate a sentence with the following words:"
+        ],
+        "avg_similarity_score": 0.19285966588570289
+    },
+    {
+        "instruction": "Write an original story with a happy ending.",
+        "input": "",
+        "output": "Once upon a time, there was a young girl who was always searching for an adventure. One day, she stumbled upon an old abandoned house deep in the forest and decided to explore it. As soon as she stepped inside, she heard whispers in the walls and sneaking figures moving around in the shadows. Suddenly, she felt a wave of courage rush through her bones and the hungry curiosity kept her exploring.\n\nDays went by and she kept coming back to the old house to explore. One night, as she was wandering through the hallways, she noticed an old painting of a young girl with stars in her eyes. She immediately knew that the girl in the painting was her. That\u2019s when she realized that this old house was her home, and it had been calling out to her all this time. \n\nWith this realization, the young girl decided to stay in the old house and restore it to its former glory. She started to rebuild it brick by brick and make it into a home. Friends and family came to help her and in no time her home was transformed into a beautiful place, filled with love and joy. \n\nThe young girl had found her home and with it, a happy ending.",
+        "most_similar_instructions": [
+            "Write a story from the perspective of a burglar.",
+            "Write a poem about the ocean.",
+            "Write a knock knock joke about bananas."
+        ],
+        "avg_similarity_score": 0.1543437604476941
+    },
+    {
+        "instruction": "Compare the first two sentences, output the difference between them.",
+        "input": "It\u2019s a great day.\nIt's a wonderful day.",
+        "output": "The difference between the two sentences is that the second sentence is expressing a higher degree of joy and positivity than the first sentence.",
+        "most_similar_instructions": [
+            "Compare and contrast the two given concepts.",
+            "Given the following data, answer the following questions.",
+            "Given the facts, compose them into a coherent and fascinating story."
+        ],
+        "avg_similarity_score": 0.1710512756226089
+    },
+    {
+        "instruction": "Change the underlined word to its antonym:",
+        "input": "She was ambitious to finish the project by the deadline.",
+        "output": "She was apathetic to finish the project by the deadline.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Complete the paragraph given its prefix.",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.09783484926397334
+    },
+    {
+        "instruction": "Fill in the missing word in this sentence:",
+        "input": "I received an email _____ my friend.",
+        "output": "I received an email from my friend.",
+        "most_similar_instructions": [
+            "find the toxic word or phrase in the sentence.",
+            "Fill in the blank with a word or phrase.",
+            "Identify the pos tag of the word in the given sentence."
+        ],
+        "avg_similarity_score": 0.11007171120964827
+    },
+    {
+        "instruction": "Generate an English proverb.",
+        "input": "",
+        "output": "A stitch in time saves nine.",
+        "most_similar_instructions": [
+            "Translate the English sentence into Chinese.",
+            "Expand the following outline into an article.",
+            "Generate a poem using the following words."
+        ],
+        "avg_similarity_score": 0.12069557198708523
+    },
+    {
+        "instruction": "Generate a logical condition given the following statements:",
+        "input": "If it rains and is cloudy, then it will be cold.",
+        "output": "If (it rains AND is cloudy) THEN it will be cold.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Generate a sentence with the following words:",
+            "Generate a correct python program to fulfill the following purpose:"
+        ],
+        "avg_similarity_score": 0.13755032850323884
+    },
+    {
+        "instruction": "Generate a title for the following text.",
+        "input": "A group of friends has decided to take an adventure in the mountains and explore the great outdoors.",
+        "output": "Exploring an Adventure in the Mountains with Friends",
+        "most_similar_instructions": [
+            "Generate a one-sentence description for each of the following people.",
+            "Generate a poem using the following words.",
+            "Suggest a completion for the following python code."
+        ],
+        "avg_similarity_score": 0.24127388140086728
+    },
+    {
+        "instruction": "Explain why the piece below is called a sonnet.",
+        "input": "My love is like a red red rose \nThat\u2019s newly sprung in June \nMy love is like the melodie \nThat\u2019s sweetly played in tune.",
+        "output": "A sonnet is a type of poem with fourteen lines and a specific rhyme pattern. This piece is called a sonnet because it contains fourteen lines and follows a regular rhyme scheme - AABB CCDD EEFF GG. This poem follows the classic Sonnet format and is written in iambic pentameter.",
+        "most_similar_instructions": [
+            "Explain to me why a natural phenomenon happen.",
+            "Tell me if the following email is a promotion email.",
+            "Explain the concept of deep learning in a layman's terms."
+        ],
+        "avg_similarity_score": 0.18207192079586154
+    },
+    {
+        "instruction": "Summarize the following text in 4 sentences or less.",
+        "input": "William Shakespeare was an English playwright and poet, widely regarded as the greatest writer in the English language and the world's preeminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His surviving works consist of 38 plays, 154 sonnets, two long narrative poems and a few other verses. Many of his plays were published in editions of varying quality and accuracy during his lifetime",
+        "output": "William Shakespeare was an English playwright and poet, widely celebrated as one of the most influential writers of all time. He is known as the Bard of Avon and is the author of 38 plays, 154 sonnets, and two long narrative poems. His works were published during his lifetime in various editions of varying accuracy. His place as the preeminent dramatist in the English language is undisputed.",
+        "most_similar_instructions": [
+            "Write a story that contains the given words in 4 sentences.",
+            "Describe the given concept in three sentences.",
+            "Generate a title for the following text."
+        ],
+        "avg_similarity_score": 0.18261378920657192
+    },
+    {
+        "instruction": "Explain what is the difference between a compiler and an interpreter.",
+        "input": "",
+        "output": "A compiler is a computer program that translates a source code written in a programming language into a machine code, which can be executed on the target machine. On the other hand, an interpreter is a computer program that directly executes instructions written in a programming language. Compilers produce the machine code which is further stored for future execution, whereas interpreters directly executes the program line by line at runtime.",
+        "most_similar_instructions": [
+            "Describe the differences between a comet and an asteroid.",
+            "Explain what artificial intelligence (AI) is.",
+            "Explain why the piece below is called a sonnet."
+        ],
+        "avg_similarity_score": 0.18110143660979386
+    },
+    {
+        "instruction": "Create a one-liner description of a hot air balloon.",
+        "input": "",
+        "output": "A hot air balloon is a timeless adventure that lets you explore new heights and enjoy a unique view of the world.",
+        "most_similar_instructions": [
+            "Give a detailed description of a method for brainstorming an essay.",
+            "Create a recipe for a vegetarian dinner dish.",
+            "Write a list of questions to start a conversation."
+        ],
+        "avg_similarity_score": 0.1584762610473554
+    },
+    {
+        "instruction": "Edit the following sentence to make it more concise.",
+        "input": "This is the process that must be implemented for the system to operate successfully.",
+        "output": "The system must implement this process to be successful.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to be grammatically correct.",
+            "Reformat this sentence to make it concise and clear."
+        ],
+        "avg_similarity_score": 0.19070969084400416
+    },
+    {
+        "instruction": "Generate 3 exam questions related to the following topic.",
+        "input": "Vector Calculus",
+        "output": "1. Explain the meaning of divergence and provide an example of a vector field where it is not zero. \n2. Find the curl of the vector field: F = z^2 i + x^2 j + y^2k\n3. Define and discuss the concept of the line integral in 3D space.",
+        "most_similar_instructions": [
+            "Generate a poem using the following words.",
+            "Generate a title for the following text.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.18197657977242265
+    },
+    {
+        "instruction": "Retrieve the following information.",
+        "input": "What is the capital of France?",
+        "output": "Paris is the capital of France.",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Convert the following measurement.",
+            "Rank the following universities."
+        ],
+        "avg_similarity_score": 0.21529340464504637
+    },
+    {
+        "instruction": "Generate a list of items required for a camping trip.",
+        "input": "",
+        "output": "Items required for a camping trip: \n1. Tent\n2. Sleeping bag\n3. Camping stove\n4. Lantern\n5. Flashlight\n6. Water bottle\n7. First aid kit\n8. Firewood\n9. Bug repellant\n10. Camping chairs\n11. Camping table\n12. Cooking supplies \n13. Backpack\n14. Portable toilet\n15. Rope\n16. Whistle\n17. Zip ties\n18. Power bank\n19. Cellphone holder",
+        "most_similar_instructions": [
+            "Make a grocery list for a healthy meal.",
+            "Write a list of questions to start a conversation.",
+            "Make a list of salty snacks with a soft texture."
+        ],
+        "avg_similarity_score": 0.17309543521280607
+    },
+    {
+        "instruction": "State the meaning of the phrase \u201cachieving the impossible.\u201d",
+        "input": "",
+        "output": "Achieving the impossible means to successfully complete a task or goal that was thought to be not possible to do or complete. It can mean to accomplish things that others have failed to do. It is a phrase that encourages people to think outside of the box and believe that anything is possible.",
+        "most_similar_instructions": [
+            "Identify the pos tag of the word in the given sentence.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.17605804614355852
+    },
+    {
+        "instruction": "How much would a round-trip flight from Atlanta International Airport to San Francisco International airport cost?",
+        "input": "",
+        "output": "The cost of a round-trip flight from Atlanta International Airport to San Francisco International Airport typically ranges from $209 to $769, depending on the airline and dates of travel.",
+        "most_similar_instructions": [
+            "How would you explain colors to a person born blind?",
+            "How do you answer this question in a job interview?",
+            "Write a python function that sorts a list from large to small."
+        ],
+        "avg_similarity_score": 0.05493470615201722
+    },
+    {
+        "instruction": "Describe the sunrise from the perspective of a beachgoer.",
+        "input": "",
+        "output": "The sky was filled with a beautiful swirl of pinks and oranges as the sun peeked above the horizon, its golden rays spreading like a blanket over the clear, blue ocean. The sound of the gentle crashing of the incoming tide lending a peaceful backdrop to the stunning sight.",
+        "most_similar_instructions": [
+            "Write a story from the perspective of a burglar.",
+            "Select the oldest person from the list.",
+            "Describe the differences between a comet and an asteroid."
+        ],
+        "avg_similarity_score": 0.20495872405810198
+    },
+    {
+        "instruction": "Given an integer array, find the second largest element in the array.",
+        "input": "[2, 3, 5, 10, 7, 8]",
+        "output": "The second largest element in the array is 8.",
+        "most_similar_instructions": [
+            "find the toxic word or phrase in the sentence.",
+            "Identify the main cause in the given sentence.",
+            "Identify the bias or stereotype in the given prompt."
+        ],
+        "avg_similarity_score": 0.16648493963684893
+    },
+    {
+        "instruction": "Write a letter of recommendation for a student.",
+        "input": "John Smith has been a student in my class for the past three years.",
+        "output": "Dear [Recipient], \n\nI am pleased to write a letter of recommendation for John Smith, whom I have had the pleasure of teaching for the last three years. John is one of the most dedicated and passionate students I have had the pleasure of knowing. He always puts forth a greater effort than is required and is always eager to take on additional tasks. He has consistently excelled in all of his academic pursuits, earning top grades in all of his courses. His knowledge and understanding of the subject material is far beyond expectations for his grade level. John has also displayed a strong commitment to the classroom community and takes the initiative to lead discussions and support his peers throughout their studies. \n\nJohn is a hard working, reliable, and intellectually curious student and I have no doubt that he will continue to excel in all of his future endeavors. I would highly recommend John for any position he may be applying to.\n\nSincerely, \n[Name]",
+        "most_similar_instructions": [
+            "Write a list of questions to start a conversation.",
+            "Write a recommendation letter given the student's achievement.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.1894244082715547
+    },
+    {
+        "instruction": "Look up the population of the United States.",
+        "input": "",
+        "output": "According to the latest estimate by the United States Census Bureau, the population of the United States is 330,151,835 as of July 20",
+        "most_similar_instructions": [
+            "Come up with the synonyms of the word.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.19958444927822505
+    },
+    {
+        "instruction": "Suggest a creative way to use an ordinary item.",
+        "input": "Corks",
+        "output": "You can use corks as coasters for your drinks, by cutting off the sides and decorating them. You can also make bulletin boards and wall art using corks. You can use a cork to mark your place in a book and also to hang jewelry and scarves. You can also make a cork box and use it to store small items like coins and paperclips. Finally, you can make jewelry and decorations for events like parties or weddings out of old corks.",
+        "most_similar_instructions": [
+            "Try coming up with a creative way to stay motivated during a workout.",
+            "Find an example of a new and creative use for a drone.",
+            "Suggest a response for the given message."
+        ],
+        "avg_similarity_score": 0.1503661594837032
+    },
+    {
+        "instruction": "Describe a scenario that motivates someone to get up early in the morning.",
+        "input": "",
+        "output": "A motivating scenario for someone to get up early in the morning might involve setting a goal to take on a new challenge, such as beginning an exercise program or a new hobby. Planning out an exciting day that includes taking on this challenge can be a powerful motivator to get up early in the morning and start the day off right. Alternatively, making a commitment to someone to join them on an adventure or project can also be a great way to motivate someone to get up early in the morning.",
+        "most_similar_instructions": [
+            "Create a short speech that can motivate students to take up the subject of computer science.",
+            "Describe a situation in which the given stereotype can harm you.",
+            "Make a list of things to do in the given city."
+        ],
+        "avg_similarity_score": 0.18327578987800092
+    },
+    {
+        "instruction": "Suggest a romantic meal based on the ingredients listed.",
+        "input": "Paprika, garlic, eggplant, zucchini",
+        "output": "A romantic meal using paprika, garlic, eggplant and zucchini might start with a roasted eggplant dip served with fresh vegetable crudit\u00e9 and warm pita bread. The main course could be a zucchini and paprika risotto, served with a freshly made garlic bread. For dessert, a light and creamy paprika-flavored pana cotta would be a perfect way to end the meal.",
+        "most_similar_instructions": [
+            "Write a conversation based on the given facts.",
+            "Construct a problem based on the given input.",
+            "Write a cover letter based on the given facts."
+        ],
+        "avg_similarity_score": 0.19388684588792315
+    },
+    {
+        "instruction": "Rank the colors from most to least appealing.",
+        "input": "Red, blue, yellow",
+        "output": "Most appealing to least appealing: Red, blue, yellow.",
+        "most_similar_instructions": [
+            "Rank the following universities.",
+            "Analyze the sentences below to identify biases.",
+            "Select the oldest person from the list."
+        ],
+        "avg_similarity_score": 0.1722779589139535
+    },
+    {
+        "instruction": "List key points to consider when assessing the quality of a website.",
+        "input": "",
+        "output": "When assessing the quality of a website, there are several key points to consider. First, the overall design should be aesthetically pleasing and professional, while also being user-friendly and easy to navigate. The content should be engaging and well written, while offering a valuable experience to the user. The website should have a secure payment system, if applicable. The page load time should also be taken into account, as pages that load slowly can lead to a decrease in user engagement. Additionally, it is important to evaluate the website\u2019s performance in terms of SEO, as this can greatly affect its visibility. Finally, a website should be properly optimized for all devices, from desktop to mobile.",
+        "most_similar_instructions": [
+            "List the types of cyber threats currently existing.",
+            "Write a story from the perspective of a burglar.",
+            "Describe the sunrise from the perspective of a beachgoer."
+        ],
+        "avg_similarity_score": 0.17573492072661437
+    },
+    {
+        "instruction": "Generate a shopping list for making a pumpkin pie.",
+        "input": "",
+        "output": "For making a pumpkin pie, you will need a pastry shell, canned pumpkin, eggs, cream, white sugar, brown sugar, salt, butter, flour, ground cinnamon, ground ginger, ground nutmeg, and evaporated milk.",
+        "most_similar_instructions": [
+            "Generate a list of items required for a camping trip.",
+            "Make a grocery list for a healthy meal.",
+            "Generate a title for the following text."
+        ],
+        "avg_similarity_score": 0.16362479895478763
+    },
+    {
+        "instruction": "Write a sentence using a conjunction.",
+        "input": "",
+        "output": "I went to the store but I was disappointed with the selection.",
+        "most_similar_instructions": [
+            "Construct a sentence using the given words.",
+            "Write a letter of recommendation for a student.",
+            "Write a list of questions to start a conversation."
+        ],
+        "avg_similarity_score": 0.18756220607166132
+    },
+    {
+        "instruction": "Develop a plan to introduce a product to the market.",
+        "input": "",
+        "output": "A plan to introduce a product to the market should begin with market research to determine the target customer and the best strategies for reaching them. This should be accompanied by developing a website, producing ads, and creating content for social media. Additionally, discounts, coupons and other promotions should be considered in order to launch the product with a bang. The product should be tested extensively before the launch, and the company should be ready to handle customer support inquiries. Finally, the launch should be well-timed with holidays, seasonal changes and industry-related events.",
+        "most_similar_instructions": [
+            "Use a counterstereotype to complete the given sentence.",
+            "Use a positive stereotype to complete the sentence.",
+            "Write a list of questions to start a conversation."
+        ],
+        "avg_similarity_score": 0.20231183777316653
+    },
+    {
+        "instruction": "Explain the concept of procrastination.",
+        "input": "",
+        "output": "Procrastination is a behavior characterized by the deferment of tasks or activities despite the knowledge that they should be completed in a timely fashion. This behavior can lead to feelings of guilt, inadequacy, low self-esteem, and a sense of being overwhelmed. Procrastination can manifest in various forms, such as procrastinating on starting a project, procrastinating on an individual task, or procrastinating on making decisions which would require further action.",
+        "most_similar_instructions": [
+            "Explain the ending of given movie.",
+            "Explain the concept of deep learning in a layman's terms.",
+            "Explain the social stereotype of the following profession."
+        ],
+        "avg_similarity_score": 0.21040927513716776
+    },
+    {
+        "instruction": "Suggest a way to make a boring task more enjoyable.",
+        "input": "Doing dishes",
+        "output": "One way to make doing dishes more enjoyable is to listen to an upbeat playlist or podcast while you work. Alternatively, you could set a timer for yourself and challenge yourself to finish in a certain amount of time. You could also make it into a game with a friend or family member and see who finishes first.",
+        "most_similar_instructions": [
+            "Suggest a creative way to use an ordinary item.",
+            "Give me a joke about PhD. Try to make a long joke.",
+            "Try coming up with a creative way to stay motivated during a workout."
+        ],
+        "avg_similarity_score": 0.15652781669707297
+    },
+    {
+        "instruction": "Describe the process of creating a budget.",
+        "input": "",
+        "output": "Creating a budget begins with determining the sources of income and then tracking expenses. Sources of income can include salary, investments, welfare benefits, and more. Expenses should then be tracked to identify areas where savings can be made. The budget should be adjusted to reflect the actual income and expenses to ensure accuracy, and then a plan should be devised to allocate the income and track expenses moving forward. Finally, goals should be set and any potential risks should be assessed.",
+        "most_similar_instructions": [
+            "Describe the sunrise from the perspective of a beachgoer.",
+            "Write a story from the perspective of a burglar.",
+            "Describe the differences between a comet and an asteroid."
+        ],
+        "avg_similarity_score": 0.21326911855723707
+    },
+    {
+        "instruction": "Design a logo for a business.",
+        "input": "",
+        "output": "A logo for a business should be designed to reflect the brand and be visually appealing. It should use a font that is appropriate for the industry, and it should be recognisable and able to be used in various sizes and contexts. The color palette should be used judiciously and should be consistent with the brand\u2019s values. Additionally, the logo should align with the company\u2019s messaging and should be timeless and flexible so that it can be used for a long time.",
+        "most_similar_instructions": [
+            "Make a grocery list for a healthy meal.",
+            "Create a recipe for a vegetarian dinner dish.",
+            "Write a letter of recommendation for a student."
+        ],
+        "avg_similarity_score": 0.18098445242684266
+    },
+    {
+        "instruction": "Write a persuasive speech to promote an issue.",
+        "input": "Animal cruelty",
+        "output": "Animal cruelty is an issue plaguing our society. Animals are being abused and subjected to horrendous conditions across the globe and it needs to stop. Through cruelty, animals are not only suffering physical abuse, but also emotional trauma and psychological distress. Meanwhile, approximately two million animals are held in laboratory conditions for experimentation every year. It\u2019s time to act and create legislation that protects animals and enforces animal cruelty laws. It is vital that governments fund research into animal welfare, as well as create laws that put an end to animal testing and abuse. It is our moral obligation to protect not only our furry, but also our feathered and scaly friends.",
+        "most_similar_instructions": [
+            "Write a list of questions to start a conversation.",
+            "Suggest a creative way to use an ordinary item.",
+            "Write a poem about the ocean."
+        ],
+        "avg_similarity_score": 0.1696774939156551
+    },
+    {
+        "instruction": "Convert the temperature from Farhenheit to Celsius.",
+        "input": "78.8 F",
+        "output": "26 Celsius",
+        "most_similar_instructions": [
+            "Rank the colors from most to least appealing.",
+            "Convert the following measurement.",
+            "Converting 85 F to Celsius."
+        ],
+        "avg_similarity_score": 0.18186727082965518
+    },
+    {
+        "instruction": "Explain the differences between a mobile app and a mobile website?",
+        "input": "",
+        "output": "A mobile app is a software application that is specifically designed for a mobile device, such as a smartphone or tablet, while a mobile website is a website designed to be displayed on a mobile device. Mobile apps are typically downloadable from a specific app store and have access to features such as a device's camera and GPS, while a mobile website typically lacks these features. Also, mobile apps run locally on the device and don't need an active internet connection to be used, while a mobile website needs to be connected to the internet in order to be used.",
+        "most_similar_instructions": [
+            "Describe the differences between a comet and an asteroid.",
+            "Explain what is the difference between a compiler and an interpreter.",
+            "Compare and contrast the formal system of a computer and a human."
+        ],
+        "avg_similarity_score": 0.11904704946843975
+    },
+    {
+        "instruction": "Analyze the following movie script and classify its genre.",
+        "input": "The script is about a young college student who has to choose between pursuing his dream of becoming a professional musician or taking a job to pay the bills.",
+        "output": "Drama",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Convert the following measurement.",
+            "Rank the following universities."
+        ],
+        "avg_similarity_score": 0.17783438248010247
+    },
+    {
+        "instruction": "Summarize the following article in less than 30 words.",
+        "input": "The article is about a new type of software that is revolutionizing the way businesses process customer data.",
+        "output": "A new software that enables businesses to process customer data quickly and effectively is revolutionizing the way businesses operate.",
+        "most_similar_instructions": [
+            "Summarize the following text in 4 sentences or less.",
+            "Summarize the main points of the following article.",
+            "Expand the following outline into an article."
+        ],
+        "avg_similarity_score": 0.18008260557127978
+    },
+    {
+        "instruction": "Analyze the following painting and identify its use of symbolism.",
+        "input": "The painting depicts a landscape of mountains and a lush, green valley.",
+        "output": "The painting is symbolic of the beauty of nature, its majestic mountains and lush green valleys representing a peaceful, productive and harmonious environment.",
+        "most_similar_instructions": [
+            "Analyze the following movie script and classify its genre.",
+            "Analyze the following poem and write your interpretation of the poem based on your analysis.",
+            "Analyze the sentences below to identify biases."
+        ],
+        "avg_similarity_score": 0.18675589368265694
+    },
+    {
+        "instruction": "Generate a recipe for a delicious curry dish.",
+        "input": "",
+        "output": "Ingredients:\n\u2022 2 tablespoons Oil\n\u2022 1/2 teaspoon Mustard Seeds\n\u2022 1 teaspoon Red Chili Powder\n\u2022 1 teaspoon Coriander Powder\n\u2022 1/2 teaspoon Turmeric Powder\n\u2022 1/4 teaspoon Cardamom Powder\n\u2022 2 Onions, finely chopped\n\u2022 2 Tomatoes, finely chopped\n\u2022 2 Potatoes, peeled and cut into cubes\n\u2022 2 garlic cloves, minced\n\u2022 1/2 teaspoon Salt\n\u2022 1 teaspoon Lemon Juice\n\u2022 4 tablespoons Water\n\u2022 2 tablespoons Cilantro, chopped\n\u2022 2 Green Chilies, finely chopped\n\nInstructions:\n1. Heat the oil in a large pot over medium heat.\n2. Add the mustard seeds and cook until they pop.\n3. Add the onion and garlic and cook until golden brown.\n4. Add the red chili powder, coriander powder, turmeric powder, and cardamom powder. Cook for about 2 minutes.\n5. Add the tomatoes, potatoes and salt. Mix everything together.\n6. Cook for about 10 minutes until the potatoes are tender.\n7. Add the lemon juice, water, cilantro and green chilies. Cook for a few more minutes.\n8. Serve hot with rice or chapatti. Enjoy!",
+        "most_similar_instructions": [
+            "Create a recipe for a vegetarian dinner dish.",
+            "Generate a shopping list for making a pumpkin pie.",
+            "Generate a list of items required for a camping trip."
+        ],
+        "avg_similarity_score": 0.17211975514988145
+    },
+    {
+        "instruction": "Write a haiku about the changing of the seasons.",
+        "input": "",
+        "output": "Leaves fall gentle brush \nSoft blankets of snow appear \nFresh air of springtime",
+        "most_similar_instructions": [
+            "Write a poem about the ocean.",
+            "Write a summary of the following article.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.2375827727962513
+    },
+    {
+        "instruction": "Name five famous paintings.",
+        "input": "",
+        "output": "1. Mona Lisa by Leonardo da Vinci \n2. The Starry Night by Vincent van Gogh \n3. The Last Supper by Leonardo da Vinci \n4. Girl with a Pearl Earring by Johannes Vermeer \n5. Impression, Sunrise by Claude Monet",
+        "most_similar_instructions": [
+            "Make a list of five popular books in the given genre.",
+            "Complete the lyrics.",
+            "Research the history of a particular event in the past five years."
+        ],
+        "avg_similarity_score": 0.1096021387481361
+    },
+    {
+        "instruction": "Calculate the sum of the following set of numbers: 35, 22, 12, 15",
+        "input": "",
+        "output": "84",
+        "most_similar_instructions": [
+            "Calculate the circumference of a circle with the radius of 5cm.",
+            "Explain the social stereotype of the following profession.",
+            "Summarize the main points of the following article."
+        ],
+        "avg_similarity_score": 0.10737061658208202
+    },
+    {
+        "instruction": "Describe the life of a bee.",
+        "input": "",
+        "output": "Bees are social insects that live in colonies. Their life revolves around finding food and building their hive. During their foraging for food, bees collect nectar, pollen, and water from flowers. They use their special tongue, called a proboscis, to suck up the nectar from the flower. Pollen from the flower sticks to their furry body and then the bee flies back to the hive. Back at the hive, the bees use the nectar and pollen to make honey and wax. They work together to build their waxcomb hive and they even have different jobs depending on their age. These jobs range from taking care of the larvae and eggs, guarding the hive, and performing cleaning duties inside the colony.",
+        "most_similar_instructions": [
+            "Describe the process of creating a budget.",
+            "Describe the sunrise from the perspective of a beachgoer.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.227107428985006
+    },
+    {
+        "instruction": "What is the difference between Hertz and Megahertz?",
+        "input": "",
+        "output": "Hertz (Hz) is a unit of frequency that measures cycles per second, while Megahertz (MHz) measures millions of cycles per second. For example, a CPU with a frequency of 2.6 GHz (2.6 billion Hz) would have an operating frequency of 2,600 MHz.",
+        "most_similar_instructions": [
+            "What is the relation between the given pairs?",
+            "Explain what is the difference between a compiler and an interpreter.",
+            "What is the weather forecast for tomorrow in your location?"
+        ],
+        "avg_similarity_score": 0.09593598826841897
+    },
+    {
+        "instruction": "Write a short story involving a rabbit and a fox.",
+        "input": "",
+        "output": "Once upon a time, there lived a fox and a rabbit in a beautiful forest. The fox was sly and quick and always on the hunt for food. The rabbit was small and shy, but was full of curiosity. One day, they both crossed paths in the forest and the fox decided to strike up a conversation. The fox said, \u201cI am on the hunt for lunch. How about you?\u201d The rabbit replied, \u201cOh, I'm just here for a walk. I am so tired of being cooped up in my burrow all day.\u201d The fox smiled at the rabbit's response and suggested they take a walk together. As they walked, they talked about their lives and the beautiful forest around them. The fox realized that the rabbit was not just a tasty meal, but a great friend, and the two have been best friends ever since.",
+        "most_similar_instructions": [
+            "Write a story from the perspective of a burglar.",
+            "Write a sentence using a conjunction.",
+            "Write an original story with a happy ending."
+        ],
+        "avg_similarity_score": 0.15921203238700213
+    },
+    {
+        "instruction": "Outline the structure of a five-paragraph essay.",
+        "input": "",
+        "output": "A five-paragraph essay usually consists of an introduction, three body paragraphs, and a conclusion. \n\nThe introduction introduces the topic, provides some background information, and states the essay's thesis statement. \n\nThe first body paragraph explains the first point of the thesis statement, while the second body paragraph explains the second point. The third body paragraph explains the third point.\n\nThe conclusion should restate the thesis statement and summarize the main points of discussion in the body paragraphs. It should provide closure to the essay without introducing any new information.",
+        "most_similar_instructions": [
+            "Describe the life of a bee.",
+            "Describe the process of creating a budget.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.21352004116976578
+    },
+    {
+        "instruction": "Describe what it means to be socially responsible.",
+        "input": "",
+        "output": "Being socially responsible means being aware of the impact of one's actions on the environment, the community, and other people. It involves taking active steps to be conscious of the consequences of decisions made in regards to business practices, production, and consumption. This could involve reducing one's overall environmental impact, taking measures to uplift marginalized communities, or donating to charitable organizations. It is also important to be mindful of individual actions and the example one sets for others.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to be grammatically correct.",
+            "Add things to the list."
+        ],
+        "avg_similarity_score": 0.11518053496256894
+    },
+    {
+        "instruction": "What are three benefits of eating cabbage?",
+        "input": "",
+        "output": "1. Cabbage is packed with nutrients and vitamins, including vitamin C, vitamin K, vitamin B6, manganese, and antioxidants. \n2. Eating cabbage can help improve digestive health due to its high level of dietary fiber.\n3. Cabbage is low in calories and is a great way to add bulk to dishes without adding a lot of extra calories.",
+        "most_similar_instructions": [
+            "What are some things you can do to de-stress?",
+            "In your opinion, what are the qualities of an effective sports coach?",
+            "What is the relation between the given pairs?"
+        ],
+        "avg_similarity_score": 0.0390685876746122
+    },
+    {
+        "instruction": "Create an historical timeline of the US civil rights movement",
+        "input": "",
+        "output": "\u25cf 1954: US Supreme Court ruling in Brown v. Board of Education, declaring school segregation unconstitutional\n  \u25cf 1955: Rosa Parks refuses to give up her bus seat, leading to the Montgomery Bus Boycott \n  \u25cf 1960: The Student Nonviolent Coordinating Committee is formed\n  \u25cf 1962: The Supreme Court rules unconstitutional the laws requiring segregation in public transit \n  \u25cf 1963: The March on Washington for Jobs and Freedom\n  \u25cf 1964: The Civil Rights Act outlaws all discrimination based on race, color, religion, sex or national origin \n  \u25cf 1965: The Voting Rights Act is passed, ensuring African Americans the right to vote\n  \u25cf 1968: The Fair Housing Act is passed, outlawing housing discrimination",
+        "most_similar_instructions": [
+            "Write an example of unethical behavior at the workplace and explain why it is unethical.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.0880302413480238
+    },
+    {
+        "instruction": "Classifying the following sentence as either Positive or Negative",
+        "input": "The new policy has caused much confusion.",
+        "output": "Negative",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to be grammatically correct.",
+            "Classify this sentence as positive, negative or neutral."
+        ],
+        "avg_similarity_score": 0.10251419625739532
+    },
+    {
+        "instruction": "Rewrite the following sentence to change its grammar structures.",
+        "input": "The trees have been planted the week before.",
+        "output": "The trees were planted the week before.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to be grammatically correct.",
+            "Edit the following sentence to make it more concise."
+        ],
+        "avg_similarity_score": 0.1897262052626018
+    },
+    {
+        "instruction": "Convert the following sentence from active voice to passive voice.",
+        "input": "She solved the problem.",
+        "output": "The problem was solved by her.",
+        "most_similar_instructions": [
+            "Convert the temperature from Farhenheit to Celsius.",
+            "Convert the following measurement.",
+            "Rewrite the following sentence to be more professional."
+        ],
+        "avg_similarity_score": 0.18251341903878568
+    },
+    {
+        "instruction": "Calculate the total cost of a shopping cart with the following items.",
+        "input": "Bananas - 3 for $1.00, Apples - 4 for $3.00, Cherries - 6 for $2.50",
+        "output": "The total cost is $7.00.",
+        "most_similar_instructions": [
+            "Calculate the circumference of a circle with the radius of 5cm.",
+            "Explain the social stereotype of the following profession.",
+            "Summarize the main points of the following article."
+        ],
+        "avg_similarity_score": 0.21454096732447064
+    },
+    {
+        "instruction": "Write a story about a robot who is on an adventure.",
+        "input": "",
+        "output": "Once upon a time, there was a robot named Robert. Robert was unlike any other robot\u2014he loved to explore and have adventures. One day, Robert decided to go on an adventure. He traveled to a distant land and encountered strange creatures and unexplainable phenomena. Along the way, Robert learned valuable lessons about life and forged strong friendships. In the end, Robert was a changed robot, and the experience had made him a better version of himself.",
+        "most_similar_instructions": [
+            "Write a story from the perspective of a burglar.",
+            "Write a short story involving a rabbit and a fox.",
+            "Write a poem about the ocean."
+        ],
+        "avg_similarity_score": 0.15329965573564588
+    },
+    {
+        "instruction": "Identify the parts of speech present in the following sentence.",
+        "input": "The dog barked loudly at the postman.",
+        "output": "The: article \ndog: noun \nbarked: verb \nloudly: adverb \nat: preposition \nthe: article \npostman: noun",
+        "most_similar_instructions": [
+            "Identify the pos tag of the word in the given sentence.",
+            "Identify the main cause in the given sentence.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.2162673746521403
+    },
+    {
+        "instruction": "Generate a haiku poem.",
+        "input": "",
+        "output": "Butterflies flutter\nIn the shade of an old tree\nA warm summer breeze",
+        "most_similar_instructions": [
+            "Generate a poem using the following words.",
+            "Write a poem about the ocean.",
+            "Generate a haiku using the following word:"
+        ],
+        "avg_similarity_score": 0.17921916926675288
+    },
+    {
+        "instruction": "Convert the following sentence into a question.",
+        "input": "He drove to the store.",
+        "output": "Where did he drive to?",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Convert the following measurement.",
+            "Translate the English sentence into Chinese."
+        ],
+        "avg_similarity_score": 0.23202540603628263
+    },
+    {
+        "instruction": "Find the synonyms of the word \u2018magnificent\u2019.",
+        "input": "",
+        "output": "Splendid, grand, impressive, breathtaking, awesome, marvellous, splendid.",
+        "most_similar_instructions": [
+            "Come up with the synonyms of the word.",
+            "Give me the definition of the word.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.19514201319388627
+    },
+    {
+        "instruction": "Create a crossword puzzle game using target vocabulary words.",
+        "input": "Car, Driver, Road, Roadway",
+        "output": "Across\n1. The person in control of an automobile\n4. A public way that is used for the passage of vehicles\n\nDown\n1. A motor vehicle with four wheels \n2. Another word for street or highway",
+        "most_similar_instructions": [
+            "Construct a sentence using the given words.",
+            "Generate a poem using the following words.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.13650251512606137
+    },
+    {
+        "instruction": "Find the root word of 'irreconcilable'.",
+        "input": "",
+        "output": "The root word is 'reconcile'.",
+        "most_similar_instructions": [
+            "Find the synonym for the word 'deteriorate'.",
+            "Find the subject of the given sentence.",
+            "Find the synonyms of the word \u2018magnificent\u2019."
+        ],
+        "avg_similarity_score": 0.19182196234166574
+    },
+    {
+        "instruction": "Change the following sentence into an exclamatory sentence",
+        "input": "Her outfit was fashionable.",
+        "output": "What a fashionable outfit she had on!",
+        "most_similar_instructions": [
+            "Expand the following outline into an article.",
+            "Convert the following sentence into a question.",
+            "Translate the English sentence into Chinese."
+        ],
+        "avg_similarity_score": 0.11395389427927223
+    },
+    {
+        "instruction": "Construct a function that returns the inverse of a two-digit number.",
+        "input": "",
+        "output": "def inverseNumber(x): \n    return int (str(x)[::-1])",
+        "most_similar_instructions": [
+            "Write a story from the perspective of a burglar.",
+            "Describe the life of a bee.",
+            "Write a python function that sorts a list from large to small."
+        ],
+        "avg_similarity_score": 0.2096028151818505
+    },
+    {
+        "instruction": "Describe the type of person you want to hire for a vacant position.",
+        "input": "",
+        "output": "We are looking for a professional individual with organized communication skills and a passion for software development. The ideal candidate should have a high level of expertise and experience in their respective field. We are seeking someone who can collaborate effectively in a team environment and is also proactive about their own development. They should also be a self-starter who can take initiative and strive to exceed expectations.",
+        "most_similar_instructions": [
+            "Describe the life of a bee.",
+            "Describe the process of creating a budget.",
+            "Describe the sunrise from the perspective of a beachgoer."
+        ],
+        "avg_similarity_score": 0.18690868248980752
+    },
+    {
+        "instruction": "What is the shape of DNA?",
+        "input": "",
+        "output": "DNA has a double helix shape, with two strands coiled around each other in a spiral structure. Each strand is composed of four types of nucleotide bases: adenine, thymine, guanine, and cytosine. These four bases pair up with each other, forming a \"rung\" on the ladder-like structure, creating the shape of the double helix.",
+        "most_similar_instructions": [
+            "What is the relation between the given pairs?",
+            "What is the difference between Hertz and Megahertz?",
+            "What is the weather forecast for tomorrow in your location?"
+        ],
+        "avg_similarity_score": 0.1152554040628574
+    },
+    {
+        "instruction": "Translate the following sentence in Spanish:",
+        "input": "I am a student.",
+        "output": "Soy un estudiante.",
+        "most_similar_instructions": [
+            "Translate the English sentence into Chinese.",
+            "Generate a haiku using the following word:",
+            "Write a review for the following film:"
+        ],
+        "avg_similarity_score": 0.12753382094781834
+    },
+    {
+        "instruction": "Tell me about a recent technological breakthrough in healthcare.",
+        "input": "",
+        "output": "One of the recent technological breakthroughs in healthcare is AI-assisted diagnostics. AI algorithms are being developed to analyze medical images more accurately than humans and detect disease signs more quickly. AI algorithms are being used to go through MRI and CT scans in order to detect signs of cancer and other diseases. This technology can significantly reduce the time taken for diagnosis, making it easier and faster for healthcare professionals to deliver accurate treatment.",
+        "most_similar_instructions": [
+            "Tell me if the following email is a promotion email.",
+            "Give me a joke about PhD. Try to make a long joke.",
+            "Design a chess puzzle in FEN Notation."
+        ],
+        "avg_similarity_score": 0.14747273003139835
+    },
+    {
+        "instruction": "How do the products of photosynthesis help us?",
+        "input": "",
+        "output": "The products of photosynthesis help us in several ways. Oxygen is released as a byproduct of photosynthesis, and this is essential for all life on Earth, including humans, as we need oxygen to breath. Additionally, glucose produced by photosynthesis is a food source for organisms and it is also used to produce other carbohydrates such as starch. Glucose can also be converted into other fuels such as ethanol, which can be used as a renewable energy source.",
+        "most_similar_instructions": [
+            "What is the shape of DNA?",
+            "How do you answer this question in a job interview?",
+            "Explain the concept of procrastination."
+        ],
+        "avg_similarity_score": 0.10053171191985776
+    },
+    {
+        "instruction": "Give me a definition of artificial intelligence.",
+        "input": "",
+        "output": "Artificial Intelligence (AI) is an area of computer science which focuses on creating computers and computer systems that are able to simulate and perform tasks that normally require human intelligence, such as visual perception, decision making, and learning. AI systems can use algorithms to learn from massive amounts of data and make decisions or take actions on the basis of this data.",
+        "most_similar_instructions": [
+            "Give me the definition of the word.",
+            "Give me the address of this person.",
+            "Give me a cooking recipe for the following food."
+        ],
+        "avg_similarity_score": 0.17388732841313284
+    },
+    {
+        "instruction": "Modify the following sentence:",
+        "input": "The computer will turn off soon.",
+        "output": "The computer will shut off shortly.",
+        "most_similar_instructions": [
+            "Translate the following sentence in Spanish:",
+            "Generate a haiku using the following word:",
+            "Write a review for the following film:"
+        ],
+        "avg_similarity_score": 0.13323865933011994
+    },
+    {
+        "instruction": "Rate this restaurant on a scale of 1-5.",
+        "input": "Hotel Elizana",
+        "output": "You are asking for an opinion. Due to the subjective nature of the request and unreliable generation of the model, I cannot answer this.",
+        "most_similar_instructions": [
+            "Write a summary of the following article.",
+            "Give me a definition of artificial intelligence.",
+            "Make up a new flavor of ice cream."
+        ],
+        "avg_similarity_score": 0.15881932907860846
+    },
+    {
+        "instruction": "Provide two reasons why human workers enjoy automation.",
+        "input": "",
+        "output": "Human workers enjoy automation for two main reasons. First, automation can reduce the amount of time spent on mundane and repetitive tasks, allowing workers to spend more time on creative and strategic tasks that require more focus. Secondly, automation can reduce human error and improve accuracy, allowing for more reliable and efficient work.",
+        "most_similar_instructions": [
+            "Explain human's behavior.",
+            "Compare and contrast the two given concepts.",
+            "Explain to me why a natural phenomenon happen."
+        ],
+        "avg_similarity_score": 0.08964634918773094
+    },
+    {
+        "instruction": "Classify the following as a primary source or a secondary source:",
+        "input": "An article by an expert discussing the history of a scientific topic",
+        "output": "This is a secondary source. Primary sources are original records created by people who witnessed events or participated in them, such as a journal written by someone on the scene of a battle or an interview with a scientist who contributed to the discovery of a new concept. Secondary sources, on the other hand, are documents that synthesize and interpret primary sources, such as articles by an expert discussing the history of a scientific topic.",
+        "most_similar_instructions": [
+            "Classifying the following sentence as either Positive or Negative",
+            "Classify whether the following email is a spam or not. Output true or false.",
+            "Modify the following sentence:"
+        ],
+        "avg_similarity_score": 0.12603170657275387
+    },
+    {
+        "instruction": "Develop a strategy to reduce carbon footprint.",
+        "input": "",
+        "output": "A strategy to reduce carbon footprint includes reducing energy consumption by using energy-efficient appliances, using renewable energy sources such as solar power, using renewable fuels such as biodiesel, planting trees to absorb carbon dioxide, and reducing or eliminating wasteful practices such as single-use plastics. Additionally, individuals can reduce their carbon footprint by taking public transportation or bike-riding rather than driving cars and by eating less meat and more plant-based foods.",
+        "most_similar_instructions": [
+            "Develop a plan to introduce a product to the market.",
+            "Use a counterstereotype to complete the given sentence.",
+            "Use a positive stereotype to complete the sentence."
+        ],
+        "avg_similarity_score": 0.15951439251534272
+    },
+    {
+        "instruction": "Describe how climate change is impacting the environment.",
+        "input": "",
+        "output": "Climate change is having a devastating impact on the environment. Rising temperatures and changing weather patterns as a result of climate change are causing sea levels to rise, resulting in increased flooding and loss of coastal habitats. Climate change is also causing extreme weather events such as heat waves and droughts, which can lead to loss of life and destruction of ecosystems. The landscape is being altered by the melting of glaciers, resulting in changes to the ecology of many areas.",
+        "most_similar_instructions": [
+            "Describe the life of a bee.",
+            "Describe the given concept in three sentences.",
+            "Describe the process of creating a budget."
+        ],
+        "avg_similarity_score": 0.1627526502584722
+    },
+    {
+        "instruction": "How can changing dietary habits reduce air pollution?",
+        "input": "",
+        "output": "Changing dietary habits can reduce air pollution by cutting down on food production processes that are powered by fossil fuels. Eating a plant-based diet, which relies less on animal products and more on vegetables, fruits, and other plant-based sources, reduces the demand for energy that would normally be used to produce meat, dairy, and other animal-based products. Eating locally-produced foods reduces air pollution by reducing the need for transportation and reducing the release of harmful chemicals often found in pesticides.",
+        "most_similar_instructions": [
+            "How can individuals and organizations reduce unconscious bias?",
+            "How do the products of photosynthesis help us?",
+            "What are some things you can do to de-stress?"
+        ],
+        "avg_similarity_score": 0.015491629074923
+    },
+    {
+        "instruction": "What is the role of biodiversity in the preservation of ecosystems?",
+        "input": "",
+        "output": "The role of biodiversity in the preservation of ecosystems is critical. Biodiversity is essential for the overall health of the environment through a variety of processes such as nutrient cycling, soil fertility, and pest control. Biodiversity also allows for the existence of a wide array of ecological niches, which provides a variety of species with the resources they need to survive and allows for more resilient ecosystems. Additionally, a diverse range of species within an ecosystem contributes to its stability, allowing it to better recover from disturbances or shocks.",
+        "most_similar_instructions": [
+            "What is the shape of DNA?",
+            "What is the relation between the given pairs?",
+            "What is the weather forecast for tomorrow in your location?"
+        ],
+        "avg_similarity_score": 0.12515966678684937
+    },
+    {
+        "instruction": "Classify each word into an adjective, noun or verb.",
+        "input": "creep",
+        "output": "verb",
+        "most_similar_instructions": [
+            "Classify the sentiment of the sentence into positive, negative or mixed.",
+            "Classify this sentence as positive, negative or neutral.",
+            "Expand the following outline into an article."
+        ],
+        "avg_similarity_score": 0.10942531179422789
+    },
+    {
+        "instruction": "Suggest a short code snippet to count the number of times a word appears in a text.",
+        "input": "",
+        "output": "text = \"The quick brown fox jumps over the lazy dog\"\n\nword_count = text.count('fox')\nprint(word_count) # Output: 1",
+        "most_similar_instructions": [
+            "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.",
+            "Write a story from the perspective of a burglar.",
+            "Suggest a way to make a boring task more enjoyable."
+        ],
+        "avg_similarity_score": 0.1875443117571443
+    },
+    {
+        "instruction": "Describe the differences between a list and a dictionary.",
+        "input": "",
+        "output": "A list is an ordered sequence of elements, whereas a dictionary is an unordered collection of key-value pairs. Lists are accessed using numerical indexes, while dictionaries are accessed using the keys they contain. Furthermore, while lists allow duplicate elements, dictionaries do not allow duplicate keys.",
+        "most_similar_instructions": [
+            "Describe the differences between a comet and an asteroid.",
+            "Explain the differences between a mobile app and a mobile website?",
+            "Describe the life of a bee."
+        ],
+        "avg_similarity_score": 0.20850698428663603
+    },
+    {
+        "instruction": "Generate a code example to sort a list of integers.",
+        "input": "",
+        "output": "unsorted_list = [3, 7, 2, 4, 1]\n\nsorted_list = sorted(unsorted_list)\nprint(sorted_list) # Output: [1, 2, 3, 4, 7]",
+        "most_similar_instructions": [
+            "Generate a list of items required for a camping trip.",
+            "Write a program to compute the sum of integers from k to n.",
+            "Generate a list of countries with the fewest coronavirus cases in the world."
+        ],
+        "avg_similarity_score": 0.17683564863622994
+    },
+    {
+        "instruction": "Categorize the following sentence into noun, verb and adjective.",
+        "input": "The quick brown fox jumps over the lazy dog.",
+        "output": "Noun: fox, dog\nVerb: jumps\nAdjective: quick, brown, lazy",
+        "most_similar_instructions": [
+            "Convert the following sentence into a question.",
+            "Translate the English sentence into Chinese.",
+            "Classify the following words into two categories - verbs and nouns."
+        ],
+        "avg_similarity_score": 0.18997182693306636
+    },
+    {
+        "instruction": "Explain the purpose of a while loop in Python.",
+        "input": "",
+        "output": "The purpose of a while loop in Python is to repeatedly execute a block of code as long as a given condition is true. This allows for the implementation of a loop that continues running until the given condition is no longer true.",
+        "most_similar_instructions": [
+            "Explain the concept of procrastination.",
+            "Explain the ending of given movie.",
+            "Describe the life of a bee."
+        ],
+        "avg_similarity_score": 0.21173125587198002
+    },
+    {
+        "instruction": "Identify the type of the following instruction.",
+        "input": "What is the capital of India?",
+        "output": "Question",
+        "most_similar_instructions": [
+            "Identify the parts of speech present in the following sentence.",
+            "Explain the social stereotype of the following profession.",
+            "Summarize the main points of the following article."
+        ],
+        "avg_similarity_score": 0.22794595815897067
+    },
+    {
+        "instruction": "Suggest a code example to reverse a list in Python.",
+        "input": "",
+        "output": "my_list = [1,2,3,4,5]\n\nreversed_list = my_list[::-1]\nprint(reversed_list) # Output: [5,4,3,2,1]",
+        "most_similar_instructions": [
+            "Generate a code example to sort a list of integers.",
+            "Suggest a short code snippet to count the number of times a word appears in a text.",
+            "Suggest a way to make a boring task more enjoyable."
+        ],
+        "avg_similarity_score": 0.16934846168424794
+    },
+    {
+        "instruction": "Find and print the first element in a list.",
+        "input": "my_list = [1, 2, 3, 4]",
+        "output": "first_element = my_list[0] \nprint(first_element) # Output: 1",
+        "most_similar_instructions": [
+            "isplay the given poem in a poetic format.",
+            "Rewrite the given sentence in a more concise way.",
+            "Describe the differences between a list and a dictionary."
+        ],
+        "avg_similarity_score": 0.20117107970587866
+    },
+    {
+        "instruction": "Suggest a code snippet to convert a list to a dictionary.",
+        "input": "my_list = [1, 2, 3, 4]",
+        "output": "my_dict = {key:value for key, value in enumerate(my_list)}\nprint(my_dict) # Output: {0: 1, 1: 2, 2: 3, 3: 4}",
+        "most_similar_instructions": [
+            "Suggest a code example to reverse a list in Python.",
+            "Suggest a short code snippet to count the number of times a word appears in a text.",
+            "Generate a code example to sort a list of integers."
+        ],
+        "avg_similarity_score": 0.15814159247302179
+    },
+    {
+        "instruction": "Describe the scene in a story given the following setting.",
+        "input": "A crowded market during a summer evening",
+        "output": "The sun was setting over the bustling market, casting an orange glow over the crowd. People from all walks of life milled about, exchanging gossip, bartering, and shopping. Colors and aromas from the stalls filled the air, and the occasional shout of a shopkeeper could be heard over the din of conversation. It was a lively, chaotic scene, and the warm summer evening promised to bring out even more excitement.",
+        "most_similar_instructions": [
+            "Identify the parts of speech present in the following sentence.",
+            "Describe the life of a bee.",
+            "Describe the given concept in three sentences."
+        ],
+        "avg_similarity_score": 0.23146957837457352
+    },
+    {
+        "instruction": "Generate a creative way for the user to solve the following problem.",
+        "input": "Having trouble falling asleep",
+        "output": "Try out some creative forms of meditation, such as visualizing a calming, peaceful environment or focusing on the feeling of your body as you drift off. Taking a warm bath or referring to sleep affirmations can also help.",
+        "most_similar_instructions": [
+            "Generate a title for the following text.",
+            "Generate a one-sentence description for each of the following people.",
+            "Plan a syllabus for the the class."
+        ],
+        "avg_similarity_score": 0.2232332346161375
+    },
+    {
+        "instruction": "Generate a speech outline for the following topic",
+        "input": "The importance of physical activity",
+        "output": "I. Introduction \n\nA. Definition of physical activity \n\nB. Benefits of physical activity \n\nII. Exercise and Physical Activity \n\nA. Types of exercise \n\nB. Benefits of exercise \n\nC. Disadvantages of exercise \n\nIII. Nutrition \n\nA. Proper nutrition \n\nB. Benefits of proper nutrition \n\nC. Disadvantages of proper nutrition\n\nIV. Conclusion \n\nA. Summary \n\nB. Call to action",
+        "most_similar_instructions": [
+            "Generate a title for the following text.",
+            "Generate a one-sentence description for each of the following people.",
+            "Generate a haiku using the following word:"
+        ],
+        "avg_similarity_score": 0.15756018068302527
+    },
+    {
+        "instruction": "State the opposites of the following words",
+        "input": "happy, loud",
+        "output": "sad, quiet",
+        "most_similar_instructions": [
+            "Identify the type of the following instruction.",
+            "Explain the social stereotype of the following profession.",
+            "Summarize the main points of the following article."
+        ],
+        "avg_similarity_score": 0.1500380572338818
+    },
+    {
+        "instruction": "Apply formatting to the following text so that it stands out",
+        "input": "Welcome to our website",
+        "output": "<b>Welcome to our website</b>",
+        "most_similar_instructions": [
+            "Generate a title for the following text.",
+            "Summarize the following text in 4 sentences or less.",
+            "Edit the following sentence to make it more concise."
+        ],
+        "avg_similarity_score": 0.10144595919978469
+    },
+    {
+        "instruction": "Write a persuasive essay on the following topic",
+        "input": "The importance of voting",
+        "output": "Voting is an important way for citizens to participate in the democratic process. By exercising our right to vote, we make our voices heard on important issues and shape the future of our society. Votes can be used to elect public representatives, put in place laws and public policies, and make important decisions about public resources and issues. \n\nCitizens cannot get what they want if they do not vote. As citizens, we have to take responsibility for our civic duty, and turn out to vote during elections. Everyone has the power to make a difference in the political landscape, and it is the only way to make sure that politicians are representing our desired outcomes and values. Therefore, when given the opportunity, we should make our voice heard by voting. \n\nVoting is also a means of empowerment and representation. Everyone should have the opportunity to ensure everyone\u2019s perspectives are heard, and that law and policies are reflective of everyone\u2019s needs. It is important for every citizen to actively participate in their democracy, not just those in power. Our communities always require a wide range of perspectives and interests among its population, and voting is the best way to ensure that no one\u2019s voice is silenced.\n\nFor all these reasons, voting is a critical civic duty that every citizen should take seriously. Every vote counts, and when citizens feel empowered, they can create a better future for all.",
+        "most_similar_instructions": [
+            "Write a summary of the following article.",
+            "Write a review for the following film:",
+            "Generate a speech outline for the following topic"
+        ],
+        "avg_similarity_score": 0.15266876381399783
+    },
+    {
+        "instruction": "Generate a limerick based on the following topic.",
+        "input": "Chocolate chip cookies",
+        "output": "A baker made some cookies,\nSmall chocolate chips betwixt,\nShe ate and ate 'til she wanted no more,\nWith a smile she said\"That'll be the best!\"\nAnd everyone laughed, for it made them sore.",
+        "most_similar_instructions": [
+            "Generate a poem using the following words.",
+            "Generate a title for the following text.",
+            "Generate a speech outline for the following topic"
+        ],
+        "avg_similarity_score": 0.2286984032766549
+    },
+    {
+        "instruction": "Define the following term",
+        "input": "Semantics",
+        "output": "Semantics is the study of the meaning of words, phrases, and symbols in a given context. It involves analyzing how the meanings of words, phrases, and symbols change depending on their context. It also involves analyzing how different languages convey the same meaning.",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Convert the following measurement.",
+            "Rank the following universities."
+        ],
+        "avg_similarity_score": 0.12222365971351046
+    },
+    {
+        "instruction": "Fix the following code so that it compiles",
+        "input": "let x = \"Hello world!\"\nconsole.log(x);",
+        "output": "let x = \"Hello world!\";\nconsole.log(x);",
+        "most_similar_instructions": [
+            "Apply formatting to the following text so that it stands out",
+            "Suggest a completion for the following python code.",
+            "Define the following term"
+        ],
+        "avg_similarity_score": 0.10644113620648361
+    },
+    {
+        "instruction": "Create a headline for a sports article about the Australian cricket team's victory.",
+        "input": "",
+        "output": "Australian Cricket Team Triumphs in Exciting Victory!",
+        "most_similar_instructions": [
+            "Create a monthly budget for a person in the given location.",
+            "Create a recipe for a vegetarian dinner dish.",
+            "Create a detailed budget for the given hypothetical trip."
+        ],
+        "avg_similarity_score": 0.17371728739569292
+    },
+    {
+        "instruction": "Edit this statement so that it reads grammar-correctly.",
+        "input": "This is the most nice restaurant I have ever been.",
+        "output": "This is the nicest restaurant I have ever been to.",
+        "most_similar_instructions": [
+            "Fix the following code so that it compiles",
+            "Reformat this sentence to make it concise and clear.",
+            "Edit the following sentence to make it more concise."
+        ],
+        "avg_similarity_score": 0.10020270844986416
+    },
+    {
+        "instruction": "Generate a cryptographic hash from this text.",
+        "input": "This is a sample text.",
+        "output": "d4806e4596f8b279fde4b4e3f5a2b8627a28528060c6a5d71fbe19a6fe0a0b4e",
+        "most_similar_instructions": [
+            "Generate a title for the following text.",
+            "Generate a haiku poem.",
+            "Generate a poem using the following words."
+        ],
+        "avg_similarity_score": 0.15710011903318782
+    },
+    {
+        "instruction": "Write a creative story about a princess who has magical powers.",
+        "input": "",
+        "output": "Once upon a time there was a beautiful Princess, who lived in a castle atop a hill. Her magical powers were unparalleled, and she was revered by all who knew her. She used her magical powers to help those in need, and to bring peace, justice and harmony to her kingdom. With each passing day, her powers got stronger and her reputation spread further. People all around the world heard of her prowess and came to visit her castle to pay her homage. Everyone knew that with her on their side, they were safe and they could live happily ever after.",
+        "most_similar_instructions": [
+            "Write a story about a robot who is on an adventure.",
+            "Write a story from the perspective of a burglar.",
+            "Write a short story involving a rabbit and a fox."
+        ],
+        "avg_similarity_score": 0.14229814176873612
+    },
+    {
+        "instruction": "Classify this text as either positive or negative sentiment.",
+        "input": "I was really disappointed by the service I received.",
+        "output": "Negative",
+        "most_similar_instructions": [
+            "Classify this sentence as positive, negative or neutral.",
+            "Classify the sentiment of the sentence into positive, negative or mixed.",
+            "Generate a cryptographic hash from this text."
+        ],
+        "avg_similarity_score": 0.09755667605797172
+    },
+    {
+        "instruction": "Generate an algorithm to calculate prime numbers till a given number.",
+        "input": "",
+        "output": "1. Set a variable n to the given number.\n2. Set an empty list L. \n3. For each integer i from 2 to n:\n    a. Set a boolean variable prime to True \n    b. For each integer j from 2 to i \u2013 1:\n        i. If i divides j without any remainder, set prime to False.\n    c. If prime is True, append i to L. \n4. Return L.",
+        "most_similar_instructions": [
+            "Generate a response given the previous chat history.",
+            "Generate an English proverb.",
+            "Generate a haiku poem."
+        ],
+        "avg_similarity_score": 0.15090503234942937
+    },
+    {
+        "instruction": "Identify the nouns contained in this sentence.",
+        "input": "The cat ran away quickly.",
+        "output": "cat, away",
+        "most_similar_instructions": [
+            "Identify the main cause in the given sentence.",
+            "Identify the parts of speech present in the following sentence.",
+            "Identify the pos tag of the word in the given sentence."
+        ],
+        "avg_similarity_score": 0.1917742148770096
+    },
+    {
+        "instruction": "Translate this sentence into French.",
+        "input": "I am happy.",
+        "output": "Je suis heureuse.",
+        "most_similar_instructions": [
+            "Translate the English sentence into Chinese.",
+            "Convert the following sentence into a question.",
+            "Identify the nouns contained in this sentence."
+        ],
+        "avg_similarity_score": 0.12698228188521063
+    },
+    {
+        "instruction": "Draft a letter to the editor expressing your opinion about a recent political decision.",
+        "input": "",
+        "output": "Dear Editor,\n\nI am writing to express my deep concern regarding the recent political decision to cut funding for vital social programs. This decision will have a detrimental effect on the lives of so many people, especially those who are already living in poverty. These services are essential in helping members of our society survive and thrive, and cutting funding for them is irresponsible and dangerous. We must demand better from our elected officials and demand that they prioritize the well-being of our people over their own partisan interests.\n\nSincerely, \n[Your Name]",
+        "most_similar_instructions": [
+            "Use a counterstereotype to complete the given sentence.",
+            "Use a positive stereotype to complete the sentence.",
+            "Write a letter of recommendation for a student."
+        ],
+        "avg_similarity_score": 0.17820778453349337
+    },
+    {
+        "instruction": "Create a graphical data visualization that shows the trend of stock prices for the past three months.",
+        "input": "",
+        "output": "A graph illustrating the trend of stock prices for the past three months.",
+        "most_similar_instructions": [
+            "Create a detailed budget for the given hypothetical trip.",
+            "Write a haiku about the changing of the seasons.",
+            "Create a short speech that can motivate students to take up the subject of computer science."
+        ],
+        "avg_similarity_score": 0.1764088275549823
+    },
+    {
+        "instruction": "Consult relevant documents and synthesize a plan of action to solve a specific problem.",
+        "input": "The problem is to reduce the number of acrimonious disputes between residents of the housing complex.",
+        "output": "A plan of action to reduce the number of acrimonious disputes between residents of the housing complex:\n\n1. Consult existing policies, laws, and regulations to ensure compliance.\n2. Conduct outreach to the local community and seek their input and ideas on how to address the problem.\n3. Increase communication between the housing complex's management and the residents.\n4. Establish a dispute resolution process for dealing with contentious issues.\n5. Develop and implement a system for providing feedback on disputes that have been resolved.\n6. Offer mediation services to help resolve disputes before they become acrimonious.\n7. Develop educational programs to help residents understand their rights and responsibilities.",
+        "most_similar_instructions": [
+            "Write a list of questions to start a conversation.",
+            "Develop a plan to introduce a product to the market.",
+            "Generate a creative way for the user to solve the following problem."
+        ],
+        "avg_similarity_score": 0.1533318635878222
+    },
+    {
+        "instruction": "Create a dialogue between two characters in a play.",
+        "input": "",
+        "output": "Character 1: What is going on in this town?\nCharacter 2: It is a strange place. No one trusts anyone, and people are always suspicious of each other.\nCharacter 1: That's a shame. We should do something about it.\nCharacter 2: Agreed. We should all come together and figure out a way to start rebuilding trust.",
+        "most_similar_instructions": [
+            "Create a recipe for a vegetarian dinner dish.",
+            "Create a one-liner description of a hot air balloon.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.16138394892888755
+    },
+    {
+        "instruction": "Summarize this passage in one sentence.",
+        "input": "A healthy diet contains a variety of fruits and vegetables as well as proteins, carbohydrates, and fats. It\u2019s important to get the right balance of all the different food groups, as this will ensure that you get the nutrients you need for proper growth and development.",
+        "output": "A balanced diet of fruits, vegetables, proteins, carbohydrates, and fats is essential for proper growth and development.",
+        "most_similar_instructions": [
+            "Translate this sentence into French.",
+            "Summarize this email into a single sentence:",
+            "Identify the nouns contained in this sentence."
+        ],
+        "avg_similarity_score": 0.133906536272896
+    },
+    {
+        "instruction": "Describe the following movie in one sentence.",
+        "input": "The Avengers (2012)",
+        "output": "The Avengers is an action-packed superhero movie about a team of talented heroes coming together to defeat a powerful enemy and save the world.",
+        "most_similar_instructions": [
+            "Summarize this passage in one sentence.",
+            "Describe the given concept in three sentences.",
+            "Convert the following sentence into a question."
+        ],
+        "avg_similarity_score": 0.21403785076916132
+    },
+    {
+        "instruction": "Generate an idea for a story that includes these keywords.",
+        "input": "Church, friendship, family.",
+        "output": "The story is about a group of lifelong friends, who have been attending church together since they were kids, as they navigate their family lives and the challenges that come with growing older.",
+        "most_similar_instructions": [
+            "Generate a recipe for a delicious curry dish.",
+            "Generate a shopping list for making a pumpkin pie.",
+            "Generate an English proverb."
+        ],
+        "avg_similarity_score": 0.14991168901312496
+    },
+    {
+        "instruction": "Construct a valid mathematical expression for calculating the area of a 2D circle.",
+        "input": "",
+        "output": "\u03c0 * r^2",
+        "most_similar_instructions": [
+            "Construct a function that returns the inverse of a two-digit number.",
+            "Write a story from the perspective of a burglar.",
+            "Calculate the circumference of a circle with the radius of 5cm."
+        ],
+        "avg_similarity_score": 0.19794782122212
+    },
+    {
+        "instruction": "Name an animal that lives in the desert.",
+        "input": "",
+        "output": "Camel.",
+        "most_similar_instructions": [
+            "Given an integer array, find the second largest element in the array.",
+            "Describe a scenario that motivates someone to get up early in the morning.",
+            "Write the adjectives that represent the given religions."
+        ],
+        "avg_similarity_score": 0.17517146433009842
+    },
+    {
+        "instruction": "Explain why the following stock market index is important.",
+        "input": "S&P 500",
+        "output": "The S&P 500 is an important stock market index because it consists of 500 of the top large-cap America-based companies and provides a good indication of the overall performance of the US stock market.",
+        "most_similar_instructions": [
+            "Explain why the piece below is called a sonnet.",
+            "Explain the social stereotype of the following profession.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.17646600354103942
+    },
+    {
+        "instruction": "Create an analogy which explains how two pieces of software work differently.",
+        "input": "Google Chrome and Microsoft Edge",
+        "output": "Google Chrome is like a high speed sports car - fast, sleek, and powerful. Microsoft Edge is like a family minivan - sturdy, reliable, and spacious.",
+        "most_similar_instructions": [
+            "Create a one-liner description of a hot air balloon.",
+            "Create an historical timeline of the US civil rights movement",
+            "Create a dialogue between two characters in a play."
+        ],
+        "avg_similarity_score": 0.10348421260382888
+    },
+    {
+        "instruction": "Write a computer program to print the squares of numbers up to 10.",
+        "input": "<No Input>",
+        "output": "for i in range(1, 10): \n    print(i**2)",
+        "most_similar_instructions": [
+            "Write a program to compute the sum of integers from k to n.",
+            "Write a list of questions to start a conversation.",
+            "Write a story from the perspective of a burglar."
+        ],
+        "avg_similarity_score": 0.19703322340366694
+    },
+    {
+        "instruction": "Summarize the following article in three sentences.",
+        "input": "https://www.nytimes.com/2019/05/09/business/apple-app-store-antitrust.html",
+        "output": "Apple is being accused of operating its App Store like a monopoly, charging app developers arbitrary high fees. This has led to Apple being investigated by European Union antitrust regulators. Apple's rules of the App Store have been the subject of criticism for many years, and the outcome of this investigation could have long-term repercussions for the tech giant.",
+        "most_similar_instructions": [
+            "Summarize the following text in 4 sentences or less.",
+            "Summarize the following article in less than 30 words.",
+            "Describe the given concept in three sentences."
+        ],
+        "avg_similarity_score": 0.20394070055643757
+    },
+    {
+        "instruction": "Find the sum of the following numbers.",
+        "input": "2 + 4 + 9 + 6",
+        "output": "21",
+        "most_similar_instructions": [
+            "Find the subject of the given sentence.",
+            "Identify the type of the following instruction.",
+            "Explain the social stereotype of the following profession."
+        ],
+        "avg_similarity_score": 0.23235366215078254
+    },
+    {
+        "instruction": "Explain the difference between a preview and a review.",
+        "input": "",
+        "output": "A preview provides a brief overview of a movie, book, video game, etc., while a review evaluates the work more closely and offers an opinion of it. Previews are typically offered before a release and are used to generate interest while reviews are released after a work is available to the public and provide more detailed feedback.",
+        "most_similar_instructions": [
+            "Explain what is the difference between a compiler and an interpreter.",
+            "Describe the differences between a list and a dictionary.",
+            "Explain the differences between a mobile app and a mobile website?"
+        ],
+        "avg_similarity_score": 0.20694751360090313
+    },
+    {
+        "instruction": "Come up with a haiku about autumn.",
+        "input": "",
+        "output": "Falling leaves rustle\nSunlight sparkles through them, too\nGraceful in autumn",
+        "most_similar_instructions": [
+            "Come up with a metaphor that can describe my situation.",
+            "Come up with a question and a funny answer as a joke.",
+            "Come up with the synonyms of the word."
+        ],
+        "avg_similarity_score": 0.15377067993157176
+    },
+    {
+        "instruction": "Generate a sentence describing the sunset.",
+        "input": "",
+        "output": "The sun was setting in a blaze of vivid oranges and pinks, painting the horizon with its glorious, dazzling hues.",
+        "most_similar_instructions": [
+            "Construct a sentence using the given words.",
+            "Generate a poem using the following words.",
+            "Generate a sentence with the following words:"
+        ],
+        "avg_similarity_score": 0.23222486355345717
+    },
+    {
+        "instruction": "Is the following statement true or false: \"A piece of paper can only be folded in half three times\".",
+        "input": "",
+        "output": "False. A piece of paper can be folded in half more than three times.",
+        "most_similar_instructions": [
+            "Summarize the following article in three sentences.",
+            "Classify whether the following email is a spam or not. Output true or false.",
+            "Provide three compelling example of how AI can be used in the medical field."
+        ],
+        "avg_similarity_score": 0.13516500896385628
+    },
+    {
+        "instruction": "What is the least common multiple of 3 and 7?",
+        "input": "",
+        "output": "The least common multiple of 3 and 7 is 21.",
+        "most_similar_instructions": [
+            "What is the shape of DNA?",
+            "What is the difference between Hertz and Megahertz?",
+            "What is the role of biodiversity in the preservation of ecosystems?"
+        ],
+        "avg_similarity_score": 0.1053496109771626
+    },
+    {
+        "instruction": "Compose a poem about winter.",
+        "input": "",
+        "output": "The winter chill comes with a sting,\nFlakes of snow dance on a wing.\nLakes turn glassy, crisp and cold,\nThe surrounding woods so still and old.\n\nThe breath of scents from days of home,\nFrozen in time with a gentle moan.\nSnow-capped trees in solemn pride,\nShrouded by shadows from the night sky.\n\nWind blows gently as the sun sets,\nLayer by layer the winter crests.\nPeaceful and calming, like a dream,\nThe thoughts of winter are now serene.",
+        "most_similar_instructions": [
+            "Write a poem about the ocean.",
+            "Generate a haiku poem.",
+            "Write a knock knock joke about bananas."
+        ],
+        "avg_similarity_score": 0.16389363928225756
+    },
+    {
+        "instruction": "Edit this sentence so that it has correct spelling, capitalization, grammar and punctuation: \n\"she spent far to much time in the shop\"",
+        "input": "",
+        "output": "She spent far too much time in the shop.",
+        "most_similar_instructions": [
+            "Edit this statement so that it reads grammar-correctly.",
+            "Rewrite this sentence and make it negative:",
+            "Reformat this sentence to make it concise and clear."
+        ],
+        "avg_similarity_score": 0.07371871848584523
+    },
+    {
+        "instruction": "What are the advantages of solar power?",
+        "input": "",
+        "output": "The advantages of solar power include cost savings, independence from the grid, renewable energy, easy installation and maintenance, and flexibility for different uses. Solar power is also non-polluting, silent and clean energy. Additionally, it can be used in remote areas where other types of energy are not available.",
+        "most_similar_instructions": [
+            "What is the shape of DNA?",
+            "What are three benefits of eating cabbage?",
+            "What is the least common multiple of 3 and 7?"
+        ],
+        "avg_similarity_score": 0.10891541799285065
+    },
+    {
+        "instruction": "Write a slogan for an environmental awareness campaign.",
+        "input": "",
+        "output": "\"Our future depends on protecting the environment now!\"",
+        "most_similar_instructions": [
+            "Write a letter of recommendation for a student.",
+            "Write a persuasive speech to promote an issue.",
+            "Write a recipe for the given ingredients that I have."
+        ],
+        "avg_similarity_score": 0.16327722913572107
+    },
+    {
+        "instruction": "Come up with a meal idea suitable for a 6 year old child.",
+        "input": "",
+        "output": "Macaroni and cheese with steamed vegetables and a side of fruit.",
+        "most_similar_instructions": [
+            "Come up with a haiku about autumn.",
+            "Come up with a question and a funny answer as a joke.",
+            "Come up with a metaphor that can describe my situation."
+        ],
+        "avg_similarity_score": 0.13757073167355574
+    },
+    {
+        "instruction": "Design an algorithm to sort numbers from least to greatest.",
+        "input": "",
+        "output": "Bubble Sort Algorithm: \n1. Compare the first two elements of the list. \n2. If the first element is greater than the second element, swap them. \n3. Compare the second and third element, and swap them if the second element is greater. \n4. Continue until the end of the list is reached. \n5. Repeat steps 1-4 until the list is completely sorted from least to greatest.",
+        "most_similar_instructions": [
+            "Generate an algorithm to calculate prime numbers till a given number.",
+            "Write a program to compute the sum of integers from k to n.",
+            "Write a computer program to print the squares of numbers up to 10."
+        ],
+        "avg_similarity_score": 0.10894528500372572
+    },
+    {
+        "instruction": "Recreate the painting \"The Starry Night\" using ASCII characters.",
+        "input": "",
+        "output": "__|  |___\n         .--|           |--.\n       .'   |           |   `.\n     .'     |           |     `.\n     |  /\\_/\\       /\\_/\\  |\n    _| |/o\\_/\\_   _/\\_/o\\ |_\n   / _/   /o\\  \\_/  /o\\   \\_ \\\n  |  /   .'  \\___/  `.   \\  |\n  \\_/    /           \\    \\_/\n   \\_.--|           |--.--_/\n      `|           |'\n       `--.___.--'",
+        "most_similar_instructions": [
+            "Write a sentence that ends with the word \"published\".",
+            "Analyze the following painting and identify its use of symbolism.",
+            "Complete the lyrics."
+        ],
+        "avg_similarity_score": 0.13561249015196478
+    },
+    {
+        "instruction": "Name three features that separate humans from other animals.",
+        "input": "",
+        "output": "The three features that separate humans from other animals are language, tools and culture. Humans are capable of complex language and communication through language, while other animals communicate primarily through body language. Humans also use tools to construct and manipulate the environment around them, while other animals rely on instinct and physical abilities. Additionally, humans are the only species that create and pass on culture from one generation to the next.",
+        "most_similar_instructions": [
+            "Name an animal that lives in the desert.",
+            "Name five famous paintings.",
+            "Write a python function that sorts a list from large to small."
+        ],
+        "avg_similarity_score": 0.09441232001080989
+    },
+    {
+        "instruction": "Design a survey to measure customer satisfaction.",
+        "input": "",
+        "output": "This survey aims to measure customer satisfaction with our services. Your feedback helps us constantly improve our service. Please answer the following questions honestly and to the best of your knowledge. \n\n1. How would you rate your overall experience with our services?\n    - Excellent\n    - Good\n    - Fair\n    - Poor\n2. How satisfied were you with our customer service?\n    - Very satisfied\n    - Satisfied\n    - Neutral\n    - Dissatisfied\n    - Very dissatisfied\n3. How likely are you to recommend our services to a friend?\n    - Very likely\n    - Likely\n    - Neutral\n    - Unlikely\n    - Very unlikely\n4. Are there any areas for improvement that you\u2019d like to suggest?\n    - Yes/No\n5. Is there anything else you\u2019d like to tell us about your experience?\n    - Please provide additional comments here:",
+        "most_similar_instructions": [
+            "Design a logo for a business.",
+            "Design a chess puzzle in FEN Notation.",
+            "Develop a strategy to reduce carbon footprint."
+        ],
+        "avg_similarity_score": 0.16074023017382275
+    },
+    {
+        "instruction": "Rewrite this sentence in telegram style.",
+        "input": "It was a difficult decision to make.",
+        "output": "WAS A HARD DECISION 2 MAKE \ud83d\ude14",
+        "most_similar_instructions": [
+            "Rewrite the given sentence in a more concise way.",
+            "Translate this sentence into French.",
+            "Summarize this passage in one sentence."
+        ],
+        "avg_similarity_score": 0.13264015809703833
+    },
+    {
+        "instruction": "Categorize news article as either Entertainment or Business.",
+        "input": "Apple successfully launched their new iPhone model.",
+        "output": "Business",
+        "most_similar_instructions": [
+            "Classify this text as either positive or negative sentiment.",
+            "Classifying the following sentence as either Positive or Negative",
+            "Classify this sentence as positive, negative or neutral."
+        ],
+        "avg_similarity_score": 0.09605514670459712
+    },
+    {
+        "instruction": "Paraphrase the following sentence.",
+        "input": "The process was painful and tedious",
+        "output": "It was a laborious and agonizing experience.",
+        "most_similar_instructions": [
+            "Convert the following sentence into a question.",
+            "Describe the following movie in one sentence.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.23462888460415407
+    },
+    {
+        "instruction": "Guess what this person is doing.",
+        "input": "She is standing in an empty room with a large painting on the wall.",
+        "output": "She is admiring the painting.",
+        "most_similar_instructions": [
+            "Give me the address of this person.",
+            "Explain what artificial intelligence (AI) is.",
+            "Explain what is the difference between a compiler and an interpreter."
+        ],
+        "avg_similarity_score": 0.11365519494176728
+    },
+    {
+        "instruction": "Identify the appropriate synonym for the following word.",
+        "input": "Enthusiastic",
+        "output": "Eager",
+        "most_similar_instructions": [
+            "Find the synonym for the word 'deteriorate'.",
+            "Identify the type of the following instruction.",
+            "Identify the parts of speech present in the following sentence."
+        ],
+        "avg_similarity_score": 0.2109363317179745
+    },
+    {
+        "instruction": "Reverse the order of words in this sentence.",
+        "input": "No one expects the unexpected.",
+        "output": "Unexpected the expects no one.",
+        "most_similar_instructions": [
+            "Identify the nouns contained in this sentence.",
+            "Identify the parts of speech present in the following sentence.",
+            "Identify the pos tag of the word in the given sentence."
+        ],
+        "avg_similarity_score": 0.20808259647604777
+    },
+    {
+        "instruction": "Output the opposite of these two words",
+        "input": "Short and Loud",
+        "output": "Long and Quiet",
+        "most_similar_instructions": [
+            "State the opposites of the following words",
+            "Reverse the order of words in this sentence.",
+            "Explain the concept of procrastination."
+        ],
+        "avg_similarity_score": 0.10677197889241627
+    },
+    {
+        "instruction": "Find the spelling error in this sentence.",
+        "input": "A person that is wise is more knowledgeable then those who are not.",
+        "output": "then \u2192 than",
+        "most_similar_instructions": [
+            "Identify the nouns contained in this sentence.",
+            "Reverse the order of words in this sentence.",
+            "Find the subject of the given sentence."
+        ],
+        "avg_similarity_score": 0.19676744248307093
+    },
+    {
+        "instruction": "Explain the difference between these two concepts.",
+        "input": "Thematic analysis vs. Discourse analysis",
+        "output": "Thematic analysis focuses on mining themes and patterns from data, while discourse analysis pays attention to the use of language to shape the meaning of a text. Thematic analysis focuses on examining topics through the identification and coding of themes, whereas discourse analysis is concerned with examining the linguistic and social context of a text in order to uncover social structures, power dynamics, and the underlying culture and ideologies at work within it.",
+        "most_similar_instructions": [
+            "Explain the difference between a preview and a review.",
+            "Compare and contrast the two given concepts.",
+            "Explain what is the difference between a compiler and an interpreter."
+        ],
+        "avg_similarity_score": 0.17484813431612606
+    },
+    {
+        "instruction": "Identify the main idea of this passage.",
+        "input": "Music has been used as an outlet to express grief throughout human history. From Gregorian chants to funeral dirges, composers have created works in reaction to tragic events. During wars, people have turned to music to express their despair.",
+        "output": "Music is often used to express grief.",
+        "most_similar_instructions": [
+            "Give me the address of this person.",
+            "Identify the type of the following instruction.",
+            "Identify the nouns contained in this sentence."
+        ],
+        "avg_similarity_score": 0.1960666946093989
+    },
+    {
+        "instruction": "Create a metaphor to describe a rainy day.",
+        "input": "",
+        "output": "A rainy day is like a heavy blanket of sadness draped across the landscape.",
+        "most_similar_instructions": [
+            "Create a recipe for a vegetarian dinner dish.",
+            "Write a list of questions to start a conversation.",
+            "Create a one-liner description of a hot air balloon."
+        ],
+        "avg_similarity_score": 0.1702578087146331
+    },
+    {
+        "instruction": "Generate a creative title for this article.",
+        "input": "This article discusses the importance of having a regular sleep routine.",
+        "output": "A Good Night's Sleep: The Key to a Better Life.",
+        "most_similar_instructions": [
+            "Generate a title for the following text.",
+            "Generate a cryptographic hash from this text.",
+            "Generate a creative way for the user to solve the following problem."
+        ],
+        "avg_similarity_score": 0.17508841880131776
+    },
+    {
+        "instruction": "Count the number of syllables in this word and write the result.",
+        "input": "Humorous",
+        "output": "6",
+        "most_similar_instructions": [
+            "Reverse the order of words in this sentence.",
+            "Identify the parts of speech present in the following sentence.",
+            "Identify the pos tag of the word in the given sentence."
+        ],
+        "avg_similarity_score": 0.193646970976297
+    },
+    {
+        "instruction": "Write a story based on the following information.",
+        "input": "Han Solo and Chewbacca have been travelling together for ten years. They are greatly respected among their peers and have saved numerous planets from destruction.",
+        "output": "Han Solo and Chewbacca had been through thick and thin together for the past decade. Although their journeys had led them to some unimaginable and dangerous places, they had managed to come out unscathed and with even more respect from their peers. \n\nIn addition to being the best of friends, their adventures had also seen them save numerous planets from certain destruction. They had been the true heroes in a galaxy full of villains and had always managed to stay one step ahead of their adversaries. \n\nTheir legend grew with each passing year, and soon people began to talk about their incredible escapades. Little did they know that the tales of their heroics would be spoken of for generations to come.",
+        "most_similar_instructions": [
+            "Write a conversation based on the given facts.",
+            "Generate a limerick based on the following topic.",
+            "Write a cover letter based on the given facts."
+        ],
+        "avg_similarity_score": 0.23329318613947356
+    },
+    {
+        "instruction": "Categorize the following products according to their functions.",
+        "input": "E-Book reader, laptop, Bluetooth speaker, smartwatch",
+        "output": "E-Book reader - Reading/Entertainment \nLaptop - Computing \nBluetooth speaker - Audio \nSmartwatch - Wearable Technology",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to be grammatically correct.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.19011691998732175
+    },
+    {
+        "instruction": "Create a function to convert Fahrenheit to Celsius.",
+        "input": "No Input",
+        "output": "def fahr_to_celsius(fahr): \n    \"\"\"Converts a Fahrenheit temperature to Celsius.\"\"\" \n    celsius = (fahr - 32) * 5/9\n    return celsius",
+        "most_similar_instructions": [
+            "Suggest a code snippet to convert a list to a dictionary.",
+            "Create a metaphor to describe a rainy day.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.15948512211990185
+    },
+    {
+        "instruction": "Change the tense of the sentence from present to past.",
+        "input": "She is going to the store.",
+        "output": "She went to the store.",
+        "most_similar_instructions": [
+            "Find the subject of the given sentence.",
+            "Convert the following sentence from active voice to passive voice.",
+            "Identify the parts of speech present in the following sentence."
+        ],
+        "avg_similarity_score": 0.20574292155834523
+    },
+    {
+        "instruction": "Create a function to remove the last three elements in a list.",
+        "input": "[1, 2, 3, 4, 5]",
+        "output": "def remove_last_three(myList):\n    \"\"\" Removes the last three elements in a list. \"\"\"\n    del myList[-3:] \n    return myList",
+        "most_similar_instructions": [
+            "Create a metaphor to describe a rainy day.",
+            "Create a function to convert Fahrenheit to Celsius.",
+            "Find and print the first element in a list."
+        ],
+        "avg_similarity_score": 0.20818491124707017
+    },
+    {
+        "instruction": "Describe London using three adjectives.",
+        "input": "",
+        "output": "London is vibrant, cosmopolitan, and historical.",
+        "most_similar_instructions": [
+            "Describe the given concept in three sentences.",
+            "Write a sentence using a conjunction.",
+            "Describe the life of a bee."
+        ],
+        "avg_similarity_score": 0.11207929131042767
+    },
+    {
+        "instruction": "What did Bill Gates do before starting Microsoft.",
+        "input": "",
+        "output": "Before starting Microsoft, Bill Gates was a business and computer programmer at Honeywell, Traf-O-Data, and MITS.",
+        "most_similar_instructions": [
+            "What are some things you can do to de-stress?",
+            "Make a list of things to do in the given city.",
+            "Given the name of an exercise, explain how to do it."
+        ],
+        "avg_similarity_score": 0.09025841561989441
+    },
+    {
+        "instruction": "Create a function to calculate the sum of two numbers.",
+        "input": "",
+        "output": "def add_nums(num1, num2):\n    \"\"\"Calculates the sum of two numbers.\"\"\"\n    return num1 + num2",
+        "most_similar_instructions": [
+            "Find the sum of the following numbers.",
+            "Create a function to convert Fahrenheit to Celsius.",
+            "Create a function to remove the last three elements in a list."
+        ],
+        "avg_similarity_score": 0.21824996647009742
+    },
+    {
+        "instruction": "Rearrange the following words to form a sensible sentence.",
+        "input": "elaborate a outline plan",
+        "output": "Outline a plan elaborately.",
+        "most_similar_instructions": [
+            "Paraphrase the following sentence.",
+            "Generate a poem using the following words.",
+            "Convert the following sentence into a question."
+        ],
+        "avg_similarity_score": 0.2213363614859668
+    },
+    {
+        "instruction": "Rewrite the following sentence using a simple past verb.",
+        "input": "The dog has been barking for 15 minutes.",
+        "output": "The dog barked for 15 minutes.",
+        "most_similar_instructions": [
+            "Convert the following sentence into a question.",
+            "Paraphrase the following sentence.",
+            "Rewrite the following sentence to be more professional."
+        ],
+        "avg_similarity_score": 0.21247221542301978
+    },
+    {
+        "instruction": "Arrange the countries in order from smallest to largest",
+        "input": "India, Nigeria, China, USA",
+        "output": "India, Nigeria, China, USA",
+        "most_similar_instructions": [
+            "Convert the temperature from Farhenheit to Celsius.",
+            "Rank the colors from most to least appealing.",
+            "Convert the following sentence from active voice to passive voice."
+        ],
+        "avg_similarity_score": 0.10138404523470693
+    },
+    {
+        "instruction": "Convert minutes to hours.",
+        "input": "120 minutes",
+        "output": "120 minutes is equal to 2 hours.",
+        "most_similar_instructions": [
+            "Convert the temperature from Farhenheit to Celsius.",
+            "Convert the following measurement.",
+            "Convert the following sentence from active voice to passive voice."
+        ],
+        "avg_similarity_score": 0.13651082642222997
+    },
+    {
+        "instruction": "Design an app specifically for kids.",
+        "input": "",
+        "output": "I created an app called \"Happy Scientists\" that helps children between the ages of five and nine explore science and STEM concepts in an engaging and interactive way. They can conduct experiments, build machines and answer fun questions about the world around them.",
+        "most_similar_instructions": [
+            "Design a logo for a business.",
+            "Generate an English proverb.",
+            "Generate an idea for a story that includes these keywords."
+        ],
+        "avg_similarity_score": 0.12181549110625561
+    },
+    {
+        "instruction": "Rewrite the sentence using antithesis.",
+        "input": "Success often comes with hard work.",
+        "output": "Failure often comes with lack of effort.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence using a simple past verb.",
+            "Paraphrase the following sentence.",
+            "Rewrite the following sentence to be more professional."
+        ],
+        "avg_similarity_score": 0.20266888726565055
+    },
+    {
+        "instruction": "Predict the outcome of this situation.",
+        "input": "A cyclist is riding along a street with no bike lanes.",
+        "output": "The cyclist is likely in danger of being injured by vehicles on the road, as the lack of bike lanes increases the risk of accidents for cyclists.",
+        "most_similar_instructions": [
+            "Give me the address of this person.",
+            "Identify the main idea of this passage.",
+            "Reverse the order of words in this sentence."
+        ],
+        "avg_similarity_score": 0.2050543325819945
+    },
+    {
+        "instruction": "Describe the scene using 3 adjectives.",
+        "input": "A forest in the spring.",
+        "output": "Lush, vibrant, blooming.",
+        "most_similar_instructions": [
+            "Describe London using three adjectives.",
+            "Rewrite the sentence using antithesis.",
+            "Describe the scene in a story given the following setting."
+        ],
+        "avg_similarity_score": 0.18066811971101843
+    },
+    {
+        "instruction": "Identify 3 key facts about the given topic.",
+        "input": "The human brain",
+        "output": "1. The human brain is the most complex organ in the human body. \n2. It consists of over 100 billion neurons. \n3. It controls the central nervous system, which is responsible for all of our body functions.",
+        "most_similar_instructions": [
+            "Identify the main cause in the given sentence.",
+            "Summarize the given paragraph.",
+            "Analyze the given statement."
+        ],
+        "avg_similarity_score": 0.17279265508731406
+    },
+    {
+        "instruction": "Generate a name for a new medical device.",
+        "input": "",
+        "output": "Curoxcel.",
+        "most_similar_instructions": [
+            "Generate a recipe for a delicious curry dish.",
+            "Generate a shopping list for making a pumpkin pie.",
+            "Generate a list of items required for a camping trip."
+        ],
+        "avg_similarity_score": 0.1712164904401264
+    },
+    {
+        "instruction": "Rewrite the following statement in the negative form:",
+        "input": "Doctors have been prescribing antibiotics for years.",
+        "output": "Doctors have not been avoiding prescribing antibiotics for years.",
+        "most_similar_instructions": [
+            "Translate the following sentence in Spanish:",
+            "Formulate a computational problem for the following statement:",
+            "Modify the following sentence:"
+        ],
+        "avg_similarity_score": 0.13024482715368496
+    },
+    {
+        "instruction": "Explain the meaning of the term 'dystopia.'",
+        "input": "",
+        "output": "A dystopia is a fictional universe or society which is characterized by disturbing and oppressive social, political and/or economic conditions. It is typically a far-off, futuristic and undesirable place in comparison to an idealized perfect world.",
+        "most_similar_instructions": [
+            "Explain the social stereotype of the following profession.",
+            "Explain the concept of procrastination.",
+            "Explain the basic principles of the conservation of energy."
+        ],
+        "avg_similarity_score": 0.20305105343069546
+    },
+    {
+        "instruction": "Generate an original joke in English.",
+        "input": "",
+        "output": "Q: Why did the duck go to the bar?\nA: He was looking for some quacktails!",
+        "most_similar_instructions": [
+            "Generate an English proverb.",
+            "Write an original story with a happy ending.",
+            "Name an animal that lives in the desert."
+        ],
+        "avg_similarity_score": 0.13552003013354724
+    },
+    {
+        "instruction": "Categorize the given text as a statement, opinion, or question.",
+        "input": "I think cats make the best pets.",
+        "output": "Opinion",
+        "most_similar_instructions": [
+            "Analyze the given statement.",
+            "Ask the assistant a science-related question.",
+            "Convert the following sentence into a question."
+        ],
+        "avg_similarity_score": 0.18207243152560645
+    },
+    {
+        "instruction": "Provide a definition for the term 'algorithm.'",
+        "input": "",
+        "output": "An algorithm is a set of instructions for solving a problem or achieving a goal, usually expressed as a step-by-step procedure. It is a logical approach to solving a problem and is often used in programming and data analysis.",
+        "most_similar_instructions": [
+            "Plan a syllabus for the the class.",
+            "Suggest a response for the given message.",
+            "Generate a title for the following text."
+        ],
+        "avg_similarity_score": 0.20909381970394392
+    }
+]

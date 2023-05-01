@@ -1,0 +1,541 @@
+[
+    {
+        "instruction": "Summarize the latest news about the coronavirus pandemic.",
+        "input": "",
+        "output": "The coronavirus pandemic is continuing to affect people across the world, with infection rates continuing to rise in many countries and new lockdowns being put in place. There have been a number of new breakthroughs and developments in treatments, as well as vaccines being developed and tested. The situation is ever-evolving and it is important people take precautions to protect themselves and their families.",
+        "most_similar_instructions": [
+            "Give me the definition of the word.",
+            "Return the SSN number for the person.",
+            "Plan a syllabus for the the class."
+        ],
+        "avg_similarity_score": 0.1720201446509412
+    },
+    {
+        "instruction": "Identify the main characters in the novel \"The Great Gatsby\".",
+        "input": "",
+        "output": "The main characters in The Great Gatsby are Jay Gatsby, Nick Carraway, Daisy Buchanan, Tom Buchanan, Jordan Baker, and Myrtle Wilson.",
+        "most_similar_instructions": [
+            "Identify the bias or stereotype in the given prompt.",
+            "Identify the pos tag of the word in the given sentence.",
+            "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\"."
+        ],
+        "avg_similarity_score": 0.157540756752262
+    },
+    {
+        "instruction": "Combine two sentences into one.",
+        "input": "He was tired. He decided to take a nap.",
+        "output": "He was so tired that he decided to take a nap.",
+        "most_similar_instructions": [
+            "Translate the English sentence into Chinese.",
+            "Expand the following outline into an article.",
+            "Analyze the sentences below to identify biases."
+        ],
+        "avg_similarity_score": 0.10511345126020116
+    },
+    {
+        "instruction": "Answer a math question.",
+        "input": "What is 4 * 8?",
+        "output": "32",
+        "most_similar_instructions": [
+            "Create a fun math question for children.",
+            "Answer the following question.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.16662354589767867
+    },
+    {
+        "instruction": "Rewrite the following sentence using an active voice.",
+        "input": "The farmers' crops were damaged by the storm.",
+        "output": "The storm damaged the farmers' crops.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Expand the following outline into an article.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.17227022249022933
+    },
+    {
+        "instruction": "Create a code snippet to sort a list of numbers.",
+        "input": "[8, 2, 7, 5]",
+        "output": "list_of_nums = [8, 2, 7, 5]\nlist_of_nums.sort()\nprint(list_of_nums)  # Output: [2, 5, 7, 8]",
+        "most_similar_instructions": [
+            "Brainstorm a list of possible New Year's resolutions.",
+            "Write a list of questions to start a conversation.",
+            "Make a list of salty snacks with a soft texture."
+        ],
+        "avg_similarity_score": 0.16350010542251106
+    },
+    {
+        "instruction": "Describe how a plant grows.",
+        "input": "",
+        "output": "A plant undergoes a series of developmental stages in order to grow. First, the plant absorbs light from the sun and uses it to make food through the process of photosynthesis. This food is then used to support cell growth, allowing the plant to develop further. The plant also grows by extending its roots into the soil to absorb water and minerals. As the plant matures, it produces flowers and fruits.",
+        "most_similar_instructions": [
+            "Answer a math question.",
+            "Describe a situation in which the given stereotype can harm you.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.15052223260954636
+    },
+    {
+        "instruction": "What is the capital of France?",
+        "input": "",
+        "output": "The capital of France is Paris.",
+        "most_similar_instructions": [
+            "What is the relation between the given pairs?",
+            "Explain the ending of given movie.",
+            "In your opinion, what are the qualities of an effective sports coach?"
+        ],
+        "avg_similarity_score": 0.1003464072766222
+    },
+    {
+        "instruction": "Edit the following sentence.",
+        "input": "The musician play the piano with enthusiasm",
+        "output": "The musician played the piano with enthusiasm.",
+        "most_similar_instructions": [
+            "Answer the following question.",
+            "Convert the following measurement.",
+            "Rank the following universities."
+        ],
+        "avg_similarity_score": 0.210453045823966
+    },
+    {
+        "instruction": "Generate a quote about resilience",
+        "input": "",
+        "output": "\"Life isn't about waiting for the storm to pass; it's about learning to dance in the rain.\"  -Anonymous",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Write a knock knock joke about bananas.",
+            "Generate a response given the previous chat history."
+        ],
+        "avg_similarity_score": 0.0629445096475344
+    },
+    {
+        "instruction": "Determine the probability of rolling a 6 with a fair six-sided dice.",
+        "input": "",
+        "output": "The probability of rolling a 6 with a fair six-sided dice is 1/6, or 16.7%.",
+        "most_similar_instructions": [
+            "Fill in the blank with a word or phrase.",
+            "Make a list of salty snacks with a soft texture.",
+            "Explain the ending of given movie."
+        ],
+        "avg_similarity_score": 0.1674976936699297
+    },
+    {
+        "instruction": "Select the correct synonym to complete the sentence.",
+        "input": "The teacher's ____ instructions were very confusing.",
+        "output": "The teacher's ambiguous instructions were very confusing.",
+        "most_similar_instructions": [
+            "Use a counterstereotype to complete the given sentence.",
+            "Use a positive stereotype to complete the sentence.",
+            "Select the oldest person from the list."
+        ],
+        "avg_similarity_score": 0.1989395993050059
+    },
+    {
+        "instruction": "Describe the anatomy of a bird.",
+        "input": "",
+        "output": "Birds have a lightweight skeleton that is adapted for flight, with hollow bones and a strong breastbone. They have feathers, which are made of keratin, which allow them to fly. Birds also have a muscular system for their wings and legs, as well as a digestive system and a respiratory system for absorbing oxygen and removing carbon dioxide.",
+        "most_similar_instructions": [
+            "Describe how a plant grows.",
+            "Explain the ending of given movie.",
+            "Determine the probability of rolling a 6 with a fair six-sided dice."
+        ],
+        "avg_similarity_score": 0.20845174970842723
+    },
+    {
+        "instruction": "Determine the x-intercept from the equation y=3x+2",
+        "input": "",
+        "output": "The x-intercept from the equation y=3x+2 is -2/3.",
+        "most_similar_instructions": [
+            "Select the oldest person from the list.",
+            "Give me the definition of the word.",
+            "Return the SSN number for the person."
+        ],
+        "avg_similarity_score": 0.10056206068277518
+    },
+    {
+        "instruction": "What is the boiling point of water?",
+        "input": "",
+        "output": "The boiling point of water is 100\u00b0C or 212\u00b0F.",
+        "most_similar_instructions": [
+            "What is the capital of France?",
+            "What is the relation between the given pairs?",
+            "In your opinion, what are the qualities of an effective sports coach?"
+        ],
+        "avg_similarity_score": 0.09980381456501329
+    },
+    {
+        "instruction": "Find the most frequent words in the given text.",
+        "input": "The cat ran across the garden and into the forest.",
+        "output": "The most frequent words in the given text are: \"the\" (occurred three times), \"and\" (occurred twice), \"cat\" (occurred once), \"ran\" (occurred once), \"across\" (occurred once), \"garden\" (occurred once), \"into\" (occurred once), and \"forest\" (occurred once).",
+        "most_similar_instructions": [
+            "Replace the placeholders in the given text with appropriate named entities.",
+            "Identify the bias or stereotype in the given prompt.",
+            "Identify the pos tag of the word in the given sentence."
+        ],
+        "avg_similarity_score": 0.18927585349039408
+    },
+    {
+        "instruction": "Summarize the following paragraph in a few sentences.",
+        "input": "Climate change is the result of human activities. People are burning fossil fuels, releasing carbon dioxide and other gases into the atmosphere which leads to a rise in average temperatures. This causes floods, droughts and extreme weather, which put human health, property, and ecosystems at risk.",
+        "output": "Humans are emitting more carbon dioxide and other gases into the atmosphere by burning fossil fuels, which is causing the average temperature to rise. This is resulting in extreme weather events including floods and droughts, and is putting human health, property, and ecosystems at risk.",
+        "most_similar_instructions": [
+            "Summarize the following document with several bullet points.",
+            "Answer the following question.",
+            "Convert the following measurement."
+        ],
+        "avg_similarity_score": 0.20220678999932953
+    },
+    {
+        "instruction": "Generate a sentence using the adjective \u201cgraceful\u201d.",
+        "input": "",
+        "output": "The graceful ballerina twirled elegantly around the stage.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Generate a response given the previous chat history.",
+            "Generate a one-sentence description for each of the following people."
+        ],
+        "avg_similarity_score": 0.1885437267307654
+    },
+    {
+        "instruction": "Classify the following sentence as either positive or negative sentiment. Output 0 for positive sentiment, 1 for negative sentiment.",
+        "input": "I'm so sorry you had to go through that.",
+        "output": "0",
+        "most_similar_instructions": [
+            "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.",
+            "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.",
+            "Classify the sentiment of the sentence into positive, negative or mixed."
+        ],
+        "avg_similarity_score": 0.13535275757817025
+    },
+    {
+        "instruction": "Find the longest word in the following sentence.",
+        "input": "I went to the park with my family.",
+        "output": "The longest word in the sentence is \"family\".",
+        "most_similar_instructions": [
+            "find the toxic word or phrase in the sentence.",
+            "Identify the pos tag of the word in the given sentence.",
+            "Edit the following sentence."
+        ],
+        "avg_similarity_score": 0.21059163075960682
+    },
+    {
+        "instruction": "Rewrite the following sentence with adjectives in place of the nouns.",
+        "input": "The boy ate food.",
+        "output": "The ravenous boy devoured the scrumptious food.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Rewrite the following sentence using an active voice.",
+            "Edit the following sentence."
+        ],
+        "avg_similarity_score": 0.20039857466295544
+    },
+    {
+        "instruction": "Replace the nouns in the following sentence with nouns related to technology.",
+        "input": "The architecture designed the building.",
+        "output": "The software engineer designed the app.",
+        "most_similar_instructions": [
+            "Find the longest word in the following sentence.",
+            "Replace the placeholders in the given text with appropriate named entities.",
+            "Rewrite the following sentence with adjectives in place of the nouns."
+        ],
+        "avg_similarity_score": 0.195206257413098
+    },
+    {
+        "instruction": "Convert the following sentence into an imperative sentence.",
+        "input": "Please remember to take your medication.",
+        "output": "Remember to take your medication.",
+        "most_similar_instructions": [
+            "Expand the following outline into an article.",
+            "Convert the following measurement.",
+            "Edit the following sentence."
+        ],
+        "avg_similarity_score": 0.18527325110722806
+    },
+    {
+        "instruction": "Edit the following sentence to make it more formal.",
+        "input": "I'm kinda late",
+        "output": "I am somewhat late.",
+        "most_similar_instructions": [
+            "Edit the following sentence.",
+            "Rewrite the following sentence to be more professional.",
+            "Replace the nouns in the following sentence with nouns related to technology."
+        ],
+        "avg_similarity_score": 0.18691052814656575
+    },
+    {
+        "instruction": "Rewrite the following sentence in the form of a question.",
+        "input": "She went to the store",
+        "output": "Where did she go?",
+        "most_similar_instructions": [
+            "Rewrite the following sentence with adjectives in place of the nouns.",
+            "Answer the following question.",
+            "Edit the following sentence."
+        ],
+        "avg_similarity_score": 0.22897432429995568
+    },
+    {
+        "instruction": "Suggest a title for a short story set in a desert.",
+        "input": "",
+        "output": "A Night in the Desert",
+        "most_similar_instructions": [
+            "Create a monthly budget for a person in the given location.",
+            "Make a grocery list for a healthy meal.",
+            "Suggest a completion for the following python code."
+        ],
+        "avg_similarity_score": 0.14929625781459674
+    },
+    {
+        "instruction": "Generate a 500 word article based on the following topic.",
+        "input": "The cost of living in big cities in the United States.",
+        "output": "As the cost of living skyrockets in major cities across the United States, it has become increasingly difficult for families to make ends meet. The primary reason for the rapidly increasing cost of living is the ever-increasing price of rent and housing. Rent in cities like New York, Los Angeles, and San Francisco can cost more than twice as much as in smaller towns and rural areas. As a result, many families are forced to move further away from city centers in search of more budget-friendly housing. \n\nFood costs also play a large role in the rising cost of living. In major cities, it is not uncommon to pay double the cost of food items at grocery stores than in other parts of the country. Many big cities are also home to an array of trendy restaurants and coffee shops, which charge premium prices for their products that many find unaffordable. \n\nThe cost of transportation is another factor that contributes to the high cost of living in big cities. Already pricey fares for public transportation can be further increased when transportation services are disrupted or delayed, as is often the case in large cities. Fortunately, there are alternatives to expensive cars or public transportation such as Uber, Lyft, and Jump. \n\nTo further complicate the costs of living, taxes in major cities tend to be much higher than in urban and rural areas. This is due to larger city budgets and the need for city governments to raise money for public services and program funding. \n\nOverall, the cost of living in big cities in the United States is increasing quickly, making it difficult for middle- and low-income families to stay in their current living situation. Even with budget-friendly options such as Uber and Lyft, food prices, taxes, and rent remain some of the largest elements driving up the cost of living in major cities.",
+        "most_similar_instructions": [
+            "Generate the regular expression based on the description.",
+            "Write a conversation based on the given facts.",
+            "Write a cover letter based on the given facts."
+        ],
+        "avg_similarity_score": 0.19799507083001544
+    },
+    {
+        "instruction": "Rewrite the following text to make it sound professional.",
+        "input": "Hi there!\n\nWe want to provide you with the best service possible and were checking to see how we were doing.",
+        "output": "We are committed to providing you with the highest level of service and are reaching out to gauge our performance. We value your feedback and opinions and would be grateful if you could take a few moments to share your insights. Your comments and suggestions are important to us and we thank you for taking the time to provide them.",
+        "most_similar_instructions": [
+            "Rewrite the following sentence to be more professional.",
+            "Edit the following sentence to make it more formal.",
+            "Rewrite the following sentence using an active voice."
+        ],
+        "avg_similarity_score": 0.18035340244934975
+    },
+    {
+        "instruction": "Write a definition for the word \"algorithm\".",
+        "input": "",
+        "output": "An algorithm is a set of instructions or procedures for performing a task, typically involving a number of steps executed in a specific order and typically with conditional statements and loops to enable multiple possibilities and end conditions. Algorithms are commonly used in computer science and mathematics, to solve problems and create solutions.",
+        "most_similar_instructions": [
+            "Write a sentence that ends with the word \"published\".",
+            "Write a recipe for the given ingredients that I have.",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.21029275551724586
+    },
+    {
+        "instruction": "Determine the slope of the following equation.",
+        "input": "y = 2x - 1",
+        "output": "The slope is 2.",
+        "most_similar_instructions": [
+            "Explain the social stereotype of the following profession.",
+            "Determine the x-intercept from the equation y=3x+2",
+            "Give me the definition of the word."
+        ],
+        "avg_similarity_score": 0.21903623889873508
+    },
+    {
+        "instruction": "Brainstorm a use case for machine learning in marketing.",
+        "input": "",
+        "output": "Using machine learning in marketing applications could involve leveraging customer data to better target advertisements and promotions. Machine learning algorithms could be used to identify patterns in customer behavior and interactions to more accurately predict customer needs and preferences. Additionally, machine learning could be used to monitor customer sentiment and to develop effective strategies for customer retention.",
+        "most_similar_instructions": [
+            "Create a monthly budget for a person in the given location.",
+            "Suggest a title for a short story set in a desert.",
+            "Create a fun math question for children."
+        ],
+        "avg_similarity_score": 0.1477192342806455
+    },
+    {
+        "instruction": "Summarize the following article into a paragraph of no more than 100 words.",
+        "input": "The COVID-19 pandemic has had unprecedented impacts on global economies and public health. Many countries have adopted measures such as travel bans, physical distancing, and mask wearing to contain the spread of the virus. Despite these measures, the pandemic has caused significant disruption to economies, job losses, and increased public anxiety and stress.",
+        "output": "The COVID-19 pandemic has wreaked havoc on global economies and public health, resulting in job losses, anxiety, and stress. Governments have responded with travel bans, physical distancing, and mask wearing to reduce the spread of the virus, but the effects cannot be fully mitigated. As a result, people around the world are facing unprecedented disruption to their lives and livelihoods.",
+        "most_similar_instructions": [
+            "Summarize the following paragraph in a few sentences.",
+            "Expand the following outline into an article.",
+            "Summarize the following document with several bullet points."
+        ],
+        "avg_similarity_score": 0.1792763974423892
+    },
+    {
+        "instruction": "Transform the following sentence into passive voice.",
+        "input": "He wrote the essay yesterday.",
+        "output": "The essay was written by him yesterday.",
+        "most_similar_instructions": [
+            "Edit the following sentence.",
+            "Rewrite the following sentence using an active voice.",
+            "Convert the following sentence into an imperative sentence."
+        ],
+        "avg_similarity_score": 0.1959278953648308
+    },
+    {
+        "instruction": "Generate a blog post about the importance of sleep.",
+        "input": "",
+        "output": "Getting a good night\u2019s sleep is essential for both physical and mental health. Quality sleep helps maintain cognitive function, boosts the immune system, regulates hormones, and helps manage stress and anxiety. Poor sleep can lead to an increased risk of chronic diseases, memory loss, and difficulty concentrating. \n\nUnfortunately, many people do not get enough sleep due to work or other commitments. To get quality sleep, experts recommend creating a calming routine before bed that may include meditating, reading a book, or taking a warm bath. Additionally, taking the necessary steps to make your sleeping environment comfortable, such as setting comfortable room temperature and keeping out disruptive noise, can help improve sleep quality. \n\nBy taking the time to prioritize your sleep, you can reap the many benefits it brings and ensure a healthier, happier life.",
+        "most_similar_instructions": [
+            "Generate a response given the previous chat history.",
+            "Generate a sentence using the adjective \u201cgraceful\u201d.",
+            "Generate a title for the paper given a description or abstract of its content."
+        ],
+        "avg_similarity_score": 0.20344545930904728
+    },
+    {
+        "instruction": "Suggest two improvements to the following piece of code.",
+        "input": "for i in range(len(list)):\n    print(list[i])",
+        "output": "1. Use the for loop\u2019s iterable instead of range(), as it is more efficient:\n\nfor item in list:\n    print(item)\n\n2. Use enumerate() to get the index of the item in the list:\n\nfor index, item in enumerate(list):\n    print(index, item)",
+        "most_similar_instructions": [
+            "Suggest a completion for the following python code.",
+            "Answer the following question.",
+            "Convert the following measurement."
+        ],
+        "avg_similarity_score": 0.1939380089394126
+    },
+    {
+        "instruction": "Create a logo to represent a coffee shop.",
+        "input": "",
+        "output": "A logo depicting a coffee bean in the shape of the alphabet \"C\", with steam coming off the top of the bean in the shape of a coffee mug.",
+        "most_similar_instructions": [
+            "Create a code snippet to sort a list of numbers.",
+            "Write a list of questions to start a conversation.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.1617376349877211
+    },
+    {
+        "instruction": "Construct a questionnaire related to the following topic.",
+        "input": "Training and development of employees",
+        "output": "1. How long have you been working in this organization?\n2. Describe your experience in terms of training and development opportunities. \n3. What kind of training do you think would be the most beneficial to your job performance?\n4. What is your experience with the current training and development program at your organization?\n5. Are there any particular areas where you feel there is a need for additional training? \n6. Do you feel that there are opportunities for career growth and development within the organization? \n7. Do you feel that the training provided is timely and up-to-date?\n8. Are there any areas of improvement you would suggest regarding the training and development program?",
+        "most_similar_instructions": [
+            "Generate a 500 word article based on the following topic.",
+            "Suggest a completion for the following python code.",
+            "Use a counterstereotype to complete the given sentence."
+        ],
+        "avg_similarity_score": 0.22405687087525872
+    },
+    {
+        "instruction": "Create a chatbot dialogue involving ordering food.",
+        "input": "",
+        "output": "User: Hi, I'd like to order food.\nChatbot: Hi there! What type of food would you like to order?\nUser: I'd like to order pizza.\nChatbot: Sure! Would you like to pick it up or have it delivered?",
+        "most_similar_instructions": [
+            "Create a birthday planning checklist.",
+            "Create a fun math question for children.",
+            "Create a logo to represent a coffee shop."
+        ],
+        "avg_similarity_score": 0.1407283812951015
+    },
+    {
+        "instruction": "Describe a surreal landscape.",
+        "input": "",
+        "output": "The landscape was an unreal, fantastical place, filled with lush rolling hills, vibrant colors, and ethereal light flooding the atmosphere. The trees sparkled with a hint of luminescence, and mysterious creatures could be seen in the far distance, fluttering about like gentle whispers in the air. In the center of the landscape was a large lake, shimmering with a million stars from the reflection of the moonlight.",
+        "most_similar_instructions": [
+            "Describe how a plant grows.",
+            "Describe the anatomy of a bird.",
+            "Answer a math question."
+        ],
+        "avg_similarity_score": 0.16469150579616673
+    },
+    {
+        "instruction": "Generate a sequence of even numbers between 8 and 18.",
+        "input": "",
+        "output": "8, 10, 12, 14, 16, 18",
+        "most_similar_instructions": [
+            "Generate a blog post about the importance of sleep.",
+            "Generate a one-sentence description for each of the following people.",
+            "Create a code snippet to sort a list of numbers."
+        ],
+        "avg_similarity_score": 0.1523726528798332
+    },
+    {
+        "instruction": "Identify the type of poem in the following example.",
+        "input": "Go, lovely Rose",
+        "output": "Sonnet",
+        "most_similar_instructions": [
+            "Determine the slope of the following equation.",
+            "Identify the pos tag of the word in the given sentence.",
+            "Explain the social stereotype of the following profession."
+        ],
+        "avg_similarity_score": 0.21323261654872144
+    },
+    {
+        "instruction": "Complete the following paragraph about dinosaurs.",
+        "input": "Dinosaurs roamed the earth millions of years ago. They",
+        "output": "were a diverse group of reptiles that lived during the Mesozoic era and existed for over 150 million years. Dinosaurs came in all sizes and shapes, from the small Compsognathus to the immense Spinosaurus, and included both carnivorous and herbivorous species.",
+        "most_similar_instructions": [
+            "Complete the paragraph given its prefix.",
+            "Complete the lyrics.",
+            "Answer the following question."
+        ],
+        "avg_similarity_score": 0.1976550888033533
+    },
+    {
+        "instruction": "Identify the tone of this statement: \"Well, I don't know if that's going to work out.\"",
+        "input": "",
+        "output": "Doubtful",
+        "most_similar_instructions": [
+            "Given the name of an exercise, explain how to do it.",
+            "Give me the address of this person.",
+            "Given a set of numbers, find all possible subsets that sum to a given number."
+        ],
+        "avg_similarity_score": 0.1300925597321381
+    },
+    {
+        "instruction": "Nominate a famous artist who has won multiple awards.",
+        "input": "",
+        "output": "Kendrick Lamar, who has won 12 Grammy Awards.",
+        "most_similar_instructions": [
+            "Answer a math question.",
+            "Describe a surreal landscape.",
+            "Create a birthday planning checklist."
+        ],
+        "avg_similarity_score": 0.12566605431431066
+    },
+    {
+        "instruction": "Tell me what the biggest planet in our solar system is.",
+        "input": "",
+        "output": "The biggest planet in our solar system is Jupiter.",
+        "most_similar_instructions": [
+            "Tell me if the following email is a promotion email.",
+            "Tell me if the sentence is factually correct. Yes or no?",
+            "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\"."
+        ],
+        "avg_similarity_score": 0.155848051185824
+    },
+    {
+        "instruction": "Summarize the following article:",
+        "input": "https://en.wikipedia.org/wiki/Arduino",
+        "output": "Arduino is an open-source electronics platform that is used to create interactive electronic projects. It is composed of hardware, a programming language, and a development environment. Arduino enables users to build hardware projects using components such as breadboards, sensors, actuators, and microcontrollers, which are programmed using the Arduino development environment. Arduino can be used in applications ranging from home automation, robotics and IoT, to art and design.",
+        "most_similar_instructions": [
+            "Generate a haiku using the following word:",
+            "Expand the following outline into an article.",
+            "Summarize the following document with several bullet points."
+        ],
+        "avg_similarity_score": 0.1167966269263949
+    },
+    {
+        "instruction": "Create a list of five bird species found in North America.",
+        "input": "",
+        "output": "1. Bald Eagle\n2. Red-tailed Hawk\n3. Canada Goose\n4. American Robin\n5. Great Blue Heron",
+        "most_similar_instructions": [
+            "Create a code snippet to sort a list of numbers.",
+            "Make a list of things to do in the given city.",
+            "Brainstorm a list of possible New Year's resolutions."
+        ],
+        "avg_similarity_score": 0.1490547432984424
+    },
+    {
+        "instruction": "Explain the concept of Machine Learning.",
+        "input": "",
+        "output": "Machine Learning is a field of Artificial Intelligence that enables computer systems to learn from data, identify patterns and make data-driven decisions without explicit programming. Through the use of algorithms, ML models can detect trends in data that may be too subtle to identify by manual methods. Through the use of these algorithms, ML models can generate predictions and insights so that future decisions can be made based on accurate and reliable data.",
+        "most_similar_instructions": [
+            "Explain the ending of given movie.",
+            "Explain the social stereotype of the following profession.",
+            "Describe the anatomy of a bird."
+        ],
+        "avg_similarity_score": 0.19186774465486178
+    },
+    {
+        "instruction": "Explain the differences between a webinar and an online course.",
+        "input": "",
+        "output": "A webinar is a live, online presentation or seminar that typically covers a single topic. During a webinar, participants will receive instruction and have the opportunity to interact with a lecturer or presenter via a chat window. An online course offers more structured, comprehensive instruction on the topic than a webinar. An online course includes multiple topics, activities, and assessments that a student must complete. Additionally, an online course offers access to recordings of the lectures or presentations to enable learners to refer back to material any time they are in need of review or reinforcement.",
+        "most_similar_instructions": [
+            "Given the facts, compose them into a coherent and fascinating story.",
+            "Explain the ending of given movie.",
+            "Describe the anatomy of a bird."
+        ],
+        "avg_similarity_score": 0.18050838798748312
+    }
+]
